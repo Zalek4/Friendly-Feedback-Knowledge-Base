@@ -1,5 +1,7 @@
 # Welcome to MkDocs
 
+> .index is the home page
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
@@ -93,3 +95,4 @@ H~2~O
 
 Superscript
 X^2^
+
