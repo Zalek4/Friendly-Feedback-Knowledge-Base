@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to Friendly Feedback Knowledge Base
 
 > .index is the home page
 
