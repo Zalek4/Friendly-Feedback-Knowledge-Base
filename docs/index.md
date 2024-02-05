@@ -1,4 +1,6 @@
-# Welcome to MkDocs
+# Welcome to Friendly Feedback Knowledge Base
+
+> .index is the home page
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -93,3 +95,4 @@ H~2~O
 
 Superscript
 X^2^
+
