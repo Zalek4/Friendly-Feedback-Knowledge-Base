@@ -4,4 +4,8 @@ extra_css:
   - style.css
 nav:
   - Home: 'index.md'
-  - About: 'about.md'
+  - About: 'About.md'
+  - Industry: 'Industry.md'
+  - Fundamentals: 'Fundamentals.md'
+  - Disciplines: 'Disciplines.md'
+  - Software: 'Software.md'
