@@ -2,3 +2,6 @@ site_name: Friendly Feedback Knowledge Base
 theme: slate
 extra_css:
   - style.css
+nav:
+  - Home: 'index.md'
+  - About: 'about.md'
