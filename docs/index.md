@@ -1,5 +1,7 @@
 # Welcome to Friendly Feedback Knowledge Base
 
+[Embeded Link](https://www.youtube.com/watch?v=uUJShalzWy8)
+
 > .index is the home page
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
