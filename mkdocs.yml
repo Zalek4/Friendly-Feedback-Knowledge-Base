@@ -9,3 +9,5 @@ nav:
   - Fundamentals: 'Fundamentals.md'
   - Disciplines: 'Disciplines.md'
   - Software: 'Software.md'
+plugins:
+    - mkdocs-video
