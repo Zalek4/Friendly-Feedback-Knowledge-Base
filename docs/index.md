@@ -1,6 +1,6 @@
 # Welcome to Friendly Feedback Knowledge Base
 
-![type:video](https://www.youtube.com/watch?v=uUJShalzWy8)
+![type:video](https://www.youtube.com/embed/watch?v=uUJShalzWy8)
 
 > .index is the home page
 
