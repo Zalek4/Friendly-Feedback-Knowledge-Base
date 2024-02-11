@@ -1,5 +1,8 @@
 # Welcome to Friendly Feedback Knowledge Base
 
+## Video Embeds
+* https://pypi.org/project/mkdocs-video/
+* https://forum.freecodecamp.org/t/youtube-refused-to-connect/245262
 ![type:video](https://www.youtube.com/embed/uUJShalzWy8)
 
 > .index is the home page
