@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
-html {
-    font-family: Rubik;
-}
-
 a {
     font-family: Rubik;
     color: #1a1a1a !important;
@@ -11,7 +7,12 @@ a {
 
 body {
     color: white;
-    font-family: Rubik;
+    font-family: Rubik !important;
+    line-height: 1 !important;
+}
+
+.navbar {
+    text-shadow: none !important;
 }
 
 .nav-link:hover {
@@ -21,7 +22,12 @@ body {
 }
 
 ml-auto {
-    display: none;
+    color: red !important;
+    display: none !important;
+}
+
+.fa {
+    display: none !important;
 }
 
 .bg-primary {
