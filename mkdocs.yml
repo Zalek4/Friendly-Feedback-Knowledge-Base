@@ -4,10 +4,10 @@ extra_css:
   - style.css
 nav:
   - Home: 'index.md'
-  - Industry: 'Industry.md'
-  - Fundamentals: 'Fundamentals.md'
-  - Disciplines: 'Disciplines.md'
-  - Software: 'Software.md'
-  - About: 'About.md'
+  - Industry: 'industry.md'
+  - Fundamentals: 'fundamentals.md'
+  - Disciplines: 'disciplines.md'
+  - Software: 'software.md'
+  - About: 'about.md'
 plugins:
     - mkdocs-video

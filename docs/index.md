@@ -1,4 +1,4 @@
-# Welcome to Friendly Feedback Knowledge Base
+# Welcome to The Friendly Feedback Knowledge Base
 
 ## Video Embeds
 * https://pypi.org/project/mkdocs-video/
@@ -52,7 +52,7 @@ link
 [title](https://www.example.com)
 
 image
-![alt text](image.jpg)
+![alt text](img/favicon.ico)
 
 Table
 | Syntax | Description |
