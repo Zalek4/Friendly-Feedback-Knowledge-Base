@@ -1,14 +1,5 @@
-# About
+# Knowledge Base
+This website hosts all of the cool resources and technique nuggets that we've collected as a community over the years. 
 
-> .index is the home page
-> .about is the about page
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
+# Discord
+If you haven't already, all are welcome to join the Friendly Feedback Discord server. It's a space to make art, get/give feedback, and play games together. 
