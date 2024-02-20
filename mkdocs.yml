@@ -5,7 +5,7 @@ extra_css:
 nav:
   - Home: 'index.md'
   - Industry: 'industry.md'
-  - Fundamentals: 'game_art_fundamentals.md'
+  - Fundamentals: 'fundamentals/game_art_fundamentals.md'
   - Disciplines: 'disciplines.md'
   - Software: 'software.md'
   - About: 'about.md'
