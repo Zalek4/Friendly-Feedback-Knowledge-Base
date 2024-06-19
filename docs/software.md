@@ -13,4 +13,3 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs -h` - Print help message and exit.
 
 Link to another page : [Link](fundamentals/game_art_fundamentals.md)
-
