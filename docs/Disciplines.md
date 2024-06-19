@@ -1,4 +1,4 @@
-# Overview (adjustment)
+# Overview
 
 # Animation
 
