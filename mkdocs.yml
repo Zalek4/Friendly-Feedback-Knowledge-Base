@@ -6,7 +6,7 @@ nav:
   - Home: 'index.md'
   - Industry: 'industry.md'
   - Fundamentals: 'fundamentals/game_art_fundamentals.md'
-  - Disciplines: 'disciplines.md'
+  - Disciplines: 'Disciplines.md'
   - Software: 'software.md'
   - About: 'about.md'
 plugins:
