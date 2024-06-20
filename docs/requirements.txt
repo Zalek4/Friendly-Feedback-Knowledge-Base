@@ -1,3 +1,4 @@
-mkdocs
+mkdocs-bootswatch
 mkdocs-video
 mkdocs-link-embeds-plugin
+beautifulsoup4

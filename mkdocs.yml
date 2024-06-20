@@ -1,4 +1,5 @@
 site_name: Friendly Feedback Knowledge Base
+theme: slate
 extra_css:
   - css/style.css
   - css/link-embeds.css
