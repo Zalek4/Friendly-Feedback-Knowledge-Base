@@ -7,3 +7,5 @@ requests>=2.20.0
 validators~=0.20.0
 beautifulsoup4>=4.11.0
 pymdown-extensions
+markdown-checklist
+markdown
