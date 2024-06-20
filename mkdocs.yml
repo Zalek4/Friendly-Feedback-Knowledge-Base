@@ -1,8 +1,60 @@
 site_name: Friendly Feedback Knowledge Base
-theme: slate
+
+# CSS style sheets
 extra_css:
-  - css/style.css
   - css/link-embeds.css
+  - css/style.css
+
+# Material theme settings
+theme:
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+  name: material
+  font:
+    text: Inter
+    code: JetBrains Mono
+  logo:
+    img/friendly_feedback_icon_02.png
+  favicon:
+    img/friendly_feedback_icon_01.png
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: cyan
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+# Extra schtuff
+extra:
+  # Footer icon links
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Zalek4/Friendly-Feedback-Knowledge-Base/tree/main
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/UatB2ChxPg
+
+# Navigation for site
 nav:
   - Home: 'index.md'
   - Industry: 'industry.md'
@@ -10,7 +62,11 @@ nav:
   - Disciplines: 'disciplines.md'
   - Software: 'software.md'
   - About: 'about.md'
+  - Formatting: 'formatting.md'
+
+# Plugins
 plugins:
+    - search
     - mkdocs-video
     - link-embeds:
         enabled: true
@@ -24,3 +80,35 @@ plugins:
         target: "blank"
         accent: "FFFFFF1A"
         verbose: false
+
+# Markdown specific extensions
+markdown_extensions:
+  - pymdownx.arithmatex
+  - pymdownx.b64
+  - pymdownx.betterem
+  - pymdownx.blocks.admonition
+  - pymdownx.blocks.definition
+  - pymdownx.blocks.details
+  - pymdownx.blocks.html
+  - pymdownx.blocks.tab
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.escapeall
+  - pymdownx.extra
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.pathconverter
+  - pymdownx.progressbar
+  - pymdownx.saneheaders
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.striphtml
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - pymdownx.tilde

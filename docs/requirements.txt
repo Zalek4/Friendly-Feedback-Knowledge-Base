@@ -1,4 +1,5 @@
 mkdocs-bootswatch
+mkdocs-dracula-theme
 mkdocs-video
 mkdocs-link-embeds-plugin
 mkdocs>=1.2.0
@@ -6,3 +7,4 @@ setuptools>=60.0.0
 requests>=2.20.0
 validators~=0.20.0
 beautifulsoup4>=4.11.0
+pymdown-extensions

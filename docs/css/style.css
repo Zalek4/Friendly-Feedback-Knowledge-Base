@@ -1,31 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
-a {
-    /*font-family: Rubik !important;*/
-    color: #1a1a1a !important;
+/*.md-header__topic {
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: black;
+}*/
+
+.md-header__topic {
+    color: black;
 }
 
-body {
-    color: white;
-    /*font-family: Rubik !important;*/
-    line-height: 1.35 !important;
-}
-
-.navbar {
-    text-shadow: none !important;
-}
-
-.nav-link:hover {
-    background-color: rgba(0, 0, 0, 0.223) !important;
-    background-image: none !important;
-    transition: 0.25s ease-in-out;
-}
-
-.fa {
-    display: none !important;
-}
-
-.bg-primary {
+.md-header {
     background: linear-gradient(
         90deg,
         rgba(255, 0, 0, 1) 0%,
@@ -40,12 +24,4 @@ body {
         rgba(251, 7, 217, 1) 90%,
         rgba(255, 0, 0, 1) 100%
     );
-}
-
-.col-md-9 a {
-    color: cyan !important;
-}
-
-.col-md-3 a{
-    color: cyan !important;
 }
