@@ -5,6 +5,18 @@
 * https://forum.freecodecamp.org/t/youtube-refused-to-connect/245262
 ![type:video](https://www.youtube.com/embed/uUJShalzWy8)
 
+## Article Embeds
+```embed
+url:            https://github.com/mkdocs/mkdocs/releases
+name:           Github: Download Mkdocs
+desc:           MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file. It is designed to be easy to use and can be extended with third-party themes, plugins, and Markdown extensions.
+image:          https://github.com/Aetherinox/mkdocs-link-embeds/assets/118329232/98179e23-ce03-4101-a858-56db0cd0e8f0
+favicon:        https://github.com/Aetherinox/mkdocs-link-embeds/assets/118329232/13a151b1-d7f9-4e27-909b-a26986ab0954
+favicon_size:   25
+target:         new
+accent:         4C59BFE0
+```
+
 > .index is the home page
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
