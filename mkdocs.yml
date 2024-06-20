@@ -11,7 +11,6 @@ nav:
   - Software: 'software.md'
   - About: 'about.md'
 plugins:
-    - mkdocs-video
     - link-embeds:
         enabled: true
         name_default: "Untitled Link"
