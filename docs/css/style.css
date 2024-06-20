@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
 a {
-    font-family: Rubik !important;
+    /*font-family: Rubik !important;*/
     color: #1a1a1a !important;
 }
 
 body {
     color: white;
-    font-family: Rubik !important;
+    /*font-family: Rubik !important;*/
     line-height: 1.35 !important;
 }
 
