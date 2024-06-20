@@ -1,5 +1,4 @@
-mkdocs-bootswatch
-mkdocs-dracula-theme
+mkdocs-material
 mkdocs-video
 mkdocs-link-embeds-plugin
 mkdocs>=1.2.0
