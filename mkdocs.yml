@@ -59,7 +59,6 @@ extra:
 # Navigation for site
 nav:
   - Home: 'index.md'
-  - Industry: 'industry.md'
   - Fundamentals:
       - Art: 'fundamentals/art_fundamentals.md'
       - Game Art: 'fundamentals/game_art_fundamentals.md'

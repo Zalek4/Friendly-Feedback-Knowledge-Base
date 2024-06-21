@@ -1,1 +1,5 @@
+---
+hide:
+  - footer
+---
 # Concept Art

@@ -1,1 +1,5 @@
+---
+hide:
+  - footer
+---
 # UI/UX

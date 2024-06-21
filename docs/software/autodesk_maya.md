@@ -1,1 +1,5 @@
+---
+hide:
+  - footer
+---
 # Maya

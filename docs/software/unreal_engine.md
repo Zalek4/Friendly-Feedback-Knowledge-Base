@@ -1,1 +1,5 @@
+---
+hide:
+  - footer
+---
 # Unreal Engine
