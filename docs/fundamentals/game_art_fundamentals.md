@@ -1,7 +1,3 @@
----
-hide:
-  - footer
----
 # Game Art Fundamentals
 
 ### 80.lv

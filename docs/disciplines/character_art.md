@@ -1,5 +1,1 @@
----
-hide:
-  - footer
----
 # Character Art

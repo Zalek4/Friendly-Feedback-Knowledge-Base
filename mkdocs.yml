@@ -2,13 +2,13 @@ site_name: Friendly Feedback Knowledge Base
 
 # CSS style sheets
 extra_css:
-  - css/link-embeds.css
-  - css/style.css
+  - assets/css/link-embeds.css
+  - assets/css/style.css
 
 # Material theme settings
 theme:
   name: material
-  custom_dir: overrides
+  custom_dir: "docs\\assets\\overrides"
   features:
     - search.suggest
     - search.highlight
@@ -20,9 +20,9 @@ theme:
     text: Inter
     code: JetBrains Mono
   logo:
-    img/friendly_feedback_icon_02.png
+    assets/img/friendly_feedback_icon_02.png
   favicon:
-    img/friendly_feedback_icon_01.png
+    assets/img/friendly_feedback_icon_01.png
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
