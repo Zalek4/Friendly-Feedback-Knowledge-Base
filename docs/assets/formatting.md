@@ -88,7 +88,7 @@ for user in friendly_feedback_users:
 [title](https://www.example.com)
 
 ### image
-![alt text](assets/img/favicon.ico)
+![alt text](img/favicon.ico)
 
 ### Table
 
