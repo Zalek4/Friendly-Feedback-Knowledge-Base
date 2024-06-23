@@ -59,7 +59,7 @@ extra:
 
 # Navigation for site
 nav:
-  - Home: 'home.md'
+  - Home: 'index.md'
   - Fundamentals:
       - Art Fundamentals: 'fundamentals/art_fundamentals.md'
       - Game Art Fundamentals: 'fundamentals/game_art_fundamentals.md'
