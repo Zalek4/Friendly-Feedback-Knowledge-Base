@@ -1,141 +1,121 @@
-site_name: Friendly Feedback Knowledge Base
-
-# CSS style sheets
-extra_css:
-  - assets/css/link-embeds.css
-  - assets/css/style.css
-
-# Material theme settings
-theme:
-  name: material
-  custom_dir: "overrides"
-  features:
-    - search.suggest
-    - search.highlight
-    - search.share
-    - navigation.footer
-    - navigation.path
-    - navigation.top
-  font:
-    text: Inter
-    code: JetBrains Mono
-  logo:
-    assets/img/friendly_feedback_icon_02.png
-  favicon:
-    assets/img/friendly_feedback_icon_01.png
-  palette:
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
-
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: cyan
-      accent: blue
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: cyan
-      accent: blue
-      toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
-
-# Extra schtuff
 extra:
-  # Footer icon links
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/Zalek4/Friendly-Feedback-Knowledge-Base/tree/main
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/UatB2ChxPg
-
-# Navigation for site
-nav:
-  - Home: 'index.md'
-  - Fundamentals:
-      - Art Fundamentals: 'fundamentals/art_fundamentals.md'
-      - Game Art Fundamentals: 'fundamentals/game_art_fundamentals.md'
-  - Disciplines:
-      - Animation: 'disciplines/animation.md'
-      - Character Art: 'disciplines/character_art.md'
-      - Concept Art: 'disciplines/concept_art.md'
-      - Design: 'disciplines/design.md'
-      - Environment Art: 'disciplines/environment_art.md'
-      - Lighting: 'disciplines/lighting.md'
-      - Music: 'disciplines/music.md'
-      - Programming: 'disciplines/programming.md'
-      - Prop Art: 'disciplines/prop_art.md'
-      - SFX: 'disciplines/sfx.md'
-      - Technical Art: 'disciplines/technical_art.md'
-      - UI/UX: 'disciplines/ui_ux.md'
-      - VFX: 'disciplines/vfx.md'
-  - Software:
-      - Adobe Illustrator: 'software/adobe_illustrator.md'
-      - Adobe Photoshop: 'software/adobe_photoshop.md'
-      - Autodesk 3DS Max: 'software/autodesk_3ds_max.md'
-      - Autodesk Maya: 'software/autodesk_maya.md'
-      - Blender: 'software/blender.md'
-      - Marvelous Designer: 'software/marvelous_designer.md'
-      - Speedtree: 'software/speedtree.md'
-      - Substance 3D Designer: 'software/substance_3d_designer.md'
-      - Substance 3D Painter: 'software/substance_3d_painter.md'
-      - Unity: 'software/unity.md'
-      - Unreal Engine: 'software/unreal_engine.md'
-      - ZBrush: 'software/zbrush.md'
-
-# Plugins
-plugins:
-    - search
-    - mkdocs-video
-    - link-embeds:
-        enabled: true
-        name_default: "Untitled Link"
-        desc_default: "No description found"
-        image_default: "https://github.com/Aetherinox/mkdocs-link-embeds/assets/118329232/c0298d98-0910-4235-a88f-0c3e2f704ba7"
-        image_disabled: false
-        favicon_default: "https://github.com/Aetherinox/mkdocs-link-embeds/assets/118329232/13a151b1-d7f9-4e27-909b-a26986ab0954"
-        favicon_disabled: false
-        favicon_size: 25
-        target: "blank"
-        accent: "FFFFFF1A"
-        verbose: false
-
-# Markdown specific extensions
+  - icon: fontawesome/brands/github
+    link: https://github.com/Zalek4/Friendly-Feedback-Knowledge-Base/tree/main
+  - icon: fontawesome/brands/discord
+    link: https://discord.gg/UatB2ChxPg
+extra_css:
+- assets/css/link-embeds.css
+- assets/css/style.css
 markdown_extensions:
-  - pymdownx.arithmatex
-  - pymdownx.b64
-  - pymdownx.betterem
-  - pymdownx.blocks.admonition
-  - pymdownx.blocks.definition
-  - pymdownx.blocks.details
-  - pymdownx.blocks.html
-  - pymdownx.blocks.tab
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.emoji
-  - pymdownx.escapeall
-  - pymdownx.extra
-  - pymdownx.highlight
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.pathconverter
-  - pymdownx.progressbar
-  - pymdownx.saneheaders
-  - pymdownx.smartsymbols
-  - pymdownx.snippets
-  - pymdownx.striphtml
-  - pymdownx.superfences
-  - pymdownx.tabbed
-  - pymdownx.tasklist
-  - pymdownx.tilde
+- pymdownx.arithmatex
+- pymdownx.b64
+- pymdownx.betterem
+- pymdownx.blocks.admonition
+- pymdownx.blocks.definition
+- pymdownx.blocks.details
+- pymdownx.blocks.html
+- pymdownx.blocks.tab
+- pymdownx.caret
+- pymdownx.critic
+- pymdownx.details
+- pymdownx.emoji
+- pymdownx.escapeall
+- pymdownx.extra
+- pymdownx.highlight
+- pymdownx.inlinehilite
+- pymdownx.keys
+- pymdownx.magiclink
+- pymdownx.mark
+- pymdownx.pathconverter
+- pymdownx.progressbar
+- pymdownx.saneheaders
+- pymdownx.smartsymbols
+- pymdownx.snippets
+- pymdownx.striphtml
+- pymdownx.superfences
+- pymdownx.tabbed
+- pymdownx.tasklist
+- pymdownx.tilde
+nav:
+- Home: index.md
+- Fundamentals:
+  - Art Fundamentals: fundamentals/art_fundamentals.md
+  - Game Art Fundamentals: fundamentals/game_art_fundamentals.md
+- Disciplines:
+  - Animation: disciplines/animation.md
+  - Character Art: disciplines/character_art.md
+  - Concept Art: disciplines/concept_art.md
+  - Design: disciplines/design.md
+  - Environment Art: disciplines/environment_art.md
+  - Lighting: disciplines/lighting.md
+  - Music: disciplines/music.md
+  - Programming: disciplines/programming.md
+  - Prop Art: disciplines/prop_art.md
+  - SFX: disciplines/sfx.md
+  - Technical Art: disciplines/technical_art.md
+  - UI/UX: disciplines/ui_ux.md
+  - VFX: disciplines/vfx.md
+- Software:
+  - Adobe Illustrator: software/adobe_illustrator.md
+  - Adobe Photoshop: software/adobe_photoshop.md
+  - Autodesk 3DS Max: software/autodesk_3ds_max.md
+  - Autodesk Maya: software/autodesk_maya.md
+  - Blender: software/blender.md
+  - Marvelous Designer: software/marvelous_designer.md
+  - Speedtree: software/speedtree.md
+  - Substance 3D Designer: software/substance_3d_designer.md
+  - Substance 3D Painter: software/substance_3d_painter.md
+  - Unity: software/unity.md
+  - Unreal Engine: software/unreal_engine.md
+  - ZBrush: software/zbrush.md
+plugins:
+- search
+- mkdocs-video
+- link-embeds:
+    accent: FFFFFF1A
+    desc_default: No description found
+    enabled: true
+    favicon_default: https://github.com/Aetherinox/mkdocs-link-embeds/assets/118329232/13a151b1-d7f9-4e27-909b-a26986ab0954
+    favicon_disabled: false
+    favicon_size: 25
+    image_default: https://github.com/Aetherinox/mkdocs-link-embeds/assets/118329232/c0298d98-0910-4235-a88f-0c3e2f704ba7
+    image_disabled: false
+    name_default: Untitled Link
+    target: blank
+    verbose: false
+site_name: Friendly Feedback Knowledge Base
+theme:
+  custom_dir: overrides
+  favicon: assets/img/friendly_feedback_icon_01.png
+  features:
+  - search.suggest
+  - search.highlight
+  - search.share
+  - navigation.footer
+  - navigation.path
+  - navigation.top
+  font:
+    code: JetBrains Mono
+    text: Inter
+  logo: assets/img/friendly_feedback_icon_02.png
+  name: material
+  palette:
+  - media: (prefers-color-scheme)
+    toggle:
+      icon: material/brightness-auto
+      name: Switch to light mode
+  - accent: blue
+    media: '(prefers-color-scheme: light)'
+    primary: cyan
+    scheme: default
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - accent: blue
+    media: '(prefers-color-scheme: dark)'
+    primary: cyan
+    scheme: slate
+    toggle:
+      icon: material/brightness-4
+      name: Switch to system preference
