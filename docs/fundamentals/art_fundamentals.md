@@ -1,11 +1,1 @@
 # Art Fundamentals
-
-## Category 01
-
-## Category 02
-
-## Category 03
-
-## Category 04
-
-## Category 05

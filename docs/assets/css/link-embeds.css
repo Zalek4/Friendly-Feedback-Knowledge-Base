@@ -50,10 +50,10 @@
 .mkde-embed-container
 {
     overflow: hidden;
-    border-radius: 5px;
-    box-shadow: var(--md-shadow-z2);
+    border-radius: 7px;
     transition: border .25s,box-shadow .25s;
     border: 2px solid rgba( 255, 255, 255, 0.1 );
+    margin: 5px;
     background-color: var(--md-default-fg-color--lightest);
 }
 
