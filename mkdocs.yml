@@ -8,7 +8,7 @@ extra_css:
 # Material theme settings
 theme:
   name: material
-  custom_dir: "docs\\assets\\overrides"
+  custom_dir: "overrides"
   features:
     - search.suggest
     - search.highlight
