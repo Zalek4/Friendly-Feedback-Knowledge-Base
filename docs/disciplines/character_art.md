@@ -1,5 +1,15 @@
 # Character Art
 
+## Resources
+___
+
+Disgust (Facial Expression)
+
+```embed
+url:         https://www.artstation.com/artwork/QXbZad
+desc:        3D muscular reference for the human expression of disgust.
+```
+
 ## Workflows
 ___
 
