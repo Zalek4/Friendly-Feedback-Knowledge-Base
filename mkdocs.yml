@@ -56,7 +56,10 @@ nav:
   - Technical Art: disciplines/technical_art.md
   - UI/UX: disciplines/ui_ux.md
   - VFX: disciplines/vfx.md
+- Industry:
+  - Portfolios: industry/portfolios.md
 - Software:
+  - Other: software/other.md
   - Adobe Illustrator: software/adobe_illustrator.md
   - Adobe Photoshop: software/adobe_photoshop.md
   - Autodesk 3DS Max: software/autodesk_3ds_max.md
@@ -85,8 +88,8 @@ plugins:
     target: blank
     verbose: false
 - git-revision-date-localized:
-      enable_creation_date: false
-      type: timeago
+    enable_creation_date: false
+    type: timeago
 repo_url: https://github.com/Zalek4/Friendly-Feedback-Knowledge-Base
 site_name: Friendly Feedback Knowledge Base
 theme:
