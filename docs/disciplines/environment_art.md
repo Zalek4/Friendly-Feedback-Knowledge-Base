@@ -20,16 +20,20 @@ target:      new
 ## Workflows
 ___
 
+#### Modular Kits for Game Environments w/ Jon Arellano
+
 ```embed
 url:         https://www.youtube.com/watch?v=77xPHfzciiY
-name:        Modular Kits for Game Environments w/ Jon Arellano
+name:        
 desc:        Great tips and tricks related to modular kits for game environments. An excellent place to start if you're new to modular asset creation.
 target:      new
 ```
 
+#### Adding Detail to Brick or Stone Objects
+
 ```embed
 url:         https://www.artstation.com/artwork/PXQKKr
-name:        Adding Detail to Brick or Stone Objects
+name:        
 desc:        Written by Andrew Alexandrov - a guide on how to create modular cap meshes to add detail to your modular wall kits.
 target:      new
 ```
