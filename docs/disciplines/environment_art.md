@@ -3,18 +3,18 @@
 ## Courses
 ___
 
+#### Advanced Environment Art - Photogrammetry
+
 ```embed
 url:         https://www.vertexschool.com/Photogrammetry-Bootcamp
-name:        Advanced Environment Art - Photogrammetry
 desc:        This course covers the full process of modeling and sculpting environments in Unreal using photogrammetry.
-target:      new
 ```
+
+#### Environment Production - Planning a Game
 
 ```embed
 url:         https://www.artstation.com/learning/courses/adP/planning-a-game-environment/chapters/BLYd/exporting-importing-ue5-and-maya
-name:        Environment Production - Planning a Game
 desc:        Stef Velzeboer's course on Environment Art production. Covers planning, terrain, props, tiling textures, vegitation, water, and polish.
-target:      new
 ```
 
 ## Workflows
