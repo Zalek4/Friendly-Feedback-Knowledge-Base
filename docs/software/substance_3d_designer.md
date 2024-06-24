@@ -7,6 +7,7 @@ ___
 
 ```embed
 url:         https://helpx
+name:        ...
 desc:        Substance Player allows you to view Substance 3D files outside of Substance Designer, and tweak any exposed parameters. Supports animation.
 ```
 
@@ -14,5 +15,6 @@ desc:        Substance Player allows you to view Substance 3D files outside of S
 
 ```embed
 url:         https://www.artstation.com/artwork/xDagzE
+name:        ...
 desc:        A free custom node by Andrey Frolov that adds some crazy curve tools to Substance Designer.
 ```
