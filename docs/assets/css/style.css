@@ -25,3 +25,21 @@
         rgba(255, 0, 0, 1) 100%
     );
 }
+
+/*Blockquote formatting*/
+
+blockquote {
+    background-color: rgb(25, 28, 36) !important;
+}
+
+hr {
+    margin: 0.25rem !important;
+}
+
+.md-typeset h3 {
+    margin: 0.4em 0em;
+}
+
+p {
+    margin: 0.25rem !importent;
+}
