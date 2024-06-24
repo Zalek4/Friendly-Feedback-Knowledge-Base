@@ -69,7 +69,6 @@ nav:
   - Unity: software/unity.md
   - Unreal Engine: software/unreal_engine.md
   - ZBrush: software/zbrush.md
-- Formatting: assets/formatting.md
 plugins:
 - search
 - mkdocs-video
