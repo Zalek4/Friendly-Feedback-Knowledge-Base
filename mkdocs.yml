@@ -69,6 +69,7 @@ nav:
   - Unity: software/unity.md
   - Unreal Engine: software/unreal_engine.md
   - ZBrush: software/zbrush.md
+- Formatting: assets/formatting.md
 plugins:
 - search
 - mkdocs-video
@@ -84,6 +85,10 @@ plugins:
     name_default: Untitled Link
     target: blank
     verbose: false
+- git-revision-date-localized:
+      enable_creation_date: false
+      type: timeago
+repo_url: https://github.com/Zalek4/Friendly-Feedback-Knowledge-Base
 site_name: Friendly Feedback Knowledge Base
 theme:
   custom_dir: overrides
