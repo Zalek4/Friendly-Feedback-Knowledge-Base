@@ -3,18 +3,10 @@
 ## Tools
 ___
 
-#### Substance Player
+> ### [Substance Player](https://helpx)
+Substance Player allows you to view Substance 3D files outside of Substance Designer, and tweak any exposed parameters. Supports animation.
+<!-- -->
 
-```embed
-url:         https://helpx
-name:        ...
-desc:        Substance Player allows you to view Substance 3D files outside of Substance Designer, and tweak any exposed parameters. Supports animation.
-```
-
-#### Normal Curve Generator Node
-
-```embed
-url:         https://www.artstation.com/artwork/xDagzE
-name:        ...
-desc:        A free custom node by Andrey Frolov that adds some crazy curve tools to Substance Designer.
-```
+> ### [Normal Curve Generator Node](https://www.artstation.com/artwork/xDagzE)
+A free custom node by Andrey Frolov that adds some crazy curve tools to Substance Designer.
+<!-- -->
