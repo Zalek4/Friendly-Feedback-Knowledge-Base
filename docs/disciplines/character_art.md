@@ -3,6 +3,11 @@
 ## Resources
 ___
 
+> ### [3D Atlas of The Human Anatomy](https://80.lv/articles/a-great-3d-atlas-of-human-anatomy/)
+A comprehensive human anatomy atlas that can be used as learning material and as a reference.
+<!-- -->
+
+
 > ### [Disgust - Facial Expression](https://www.artstation.com/artwork/QXbZad)
 3D muscular reference for the human expression of disgust.
 <!-- -->

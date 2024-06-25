@@ -1,5 +1,13 @@
 # Game Art Fundamentals
 
+## Composition
+___
+
+> ### [Cinematic Camera Framing 101](https://www.linkedin.com/pulse/unreal-engine-cinematic-cameras-framing-101-matteo-grossi/)
+An excellent guide on camera framing in game cinematics. Concepts can be extrapolated to encompass most other game development disciplines.
+<!-- -->
+
+
 ## Normals
 ___
 

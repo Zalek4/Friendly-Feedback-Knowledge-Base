@@ -12,6 +12,14 @@ This course covers the full process of modeling and sculpting environments in Un
 Stef Velzeboer's course on Environment Art production. Covers planning, terrain, props, tiling textures, vegitation, water, and polish.
 <!-- -->
 
+## Walkthroughs
+___
+
+> ### [Skyrim's Modular Level Design](http://blog.joelburgess.com/2013/04/skyrims-modular-level-design-gdc-2013.html)
+A GDC talk from 2013 about the modular design and art approach in Skyrim. An oldie, but a goodie.
+<!-- -->
+
+
 
 ## Workflows
 ___
