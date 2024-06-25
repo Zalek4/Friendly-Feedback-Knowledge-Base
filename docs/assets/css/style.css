@@ -5,6 +5,10 @@
   -webkit-text-stroke-color: black;
 }*/
 
+.md-header__button md-logo{
+    background-color: black !important;
+}
+
 .md-header__topic {
     color: black;
 }
@@ -29,17 +33,14 @@
 /*Blockquote formatting*/
 
 blockquote {
-    background-color: rgb(25, 28, 36) !important;
+    border-radius: 2px 20px 20px 2px !important;
+    margin-right: 1rem;
 }
 
 hr {
     margin: 0.25rem !important;
 }
 
-.md-typeset h3 {
-    margin: 0.4em 0em;
-}
-
 p {
-    margin: 0.25rem !importent;
+    margin-right: 0.25rem !important;
 }
