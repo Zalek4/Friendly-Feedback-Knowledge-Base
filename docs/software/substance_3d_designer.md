@@ -3,7 +3,7 @@
 ## Tools
 ___
 
-> ### [Substance Player](https://helpx)
+> ### [Substance Player](https://helpx.adobe.com/substance-3d-player/home.html)
 Substance Player allows you to view Substance 3D files outside of Substance Designer, and tweak any exposed parameters. Supports animation.
 <!-- -->
 
