@@ -3,21 +3,15 @@
 ## Normals
 ___
 
-#### This is Normal: A Guide to Normal Mapping
+> ### [This is Normal: A Guide to Normal Mapping](https://www.artstation.com/blogs/typhen/GMyG/this-is-normal-1-what-normal-maps-are-and-how-they-work)
+A 5-part series by Carlos Lemos on normals, normal maps, and how to use them in production.
+<!-- -->
 
-```embed
-url:         https://www.artstation.com/blogs/typhen/GMyG/this-is-normal-1-what-normal-maps-are-and-how-they-work
-name:        ...
-desc:        A 5-part series by Carlos Lemos on normals, normal maps, and how to use them in production.
-```
 
 ## Physically Based Rendering (PBR)
 ___
 
-#### Physically Based
+> ### [Physically Based](https://physicallybased.info/)
+A database of PBR values for a ton of real-world materials and surfaces. Maintained by Anton Palmqvist.
+<!-- -->
 
-```embed
-url:         https://physicallybased.info/
-name:        ...
-desc:        A database of PBR values for a ton of real-world materials and surfaces. Maintained by Anton Palmqvist.
-```
