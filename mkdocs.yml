@@ -45,9 +45,9 @@ nav:
 - Disciplines:
   - Animation: disciplines/animation.md
   - Character Art: disciplines/character_art.md
-  - Vfx: disciplines/vfx.md
   - Environment Art: disciplines/environment_art.md
   - Technical Art: disciplines/technical_art.md
+  - Vfx: disciplines/vfx.md
 - Industry:
   - Jobs: industry/jobs.md
 - Software:
