@@ -108,22 +108,3 @@ theme:
     text: Inter
   logo: assets/img/friendly_feedback_icon_02.png
   name: material
-  palette:
-  - media: (prefers-color-scheme)
-    toggle:
-      icon: material/brightness-auto
-      name: Switch to light mode
-  - accent: blue
-    media: '(prefers-color-scheme: light)'
-    primary: cyan
-    scheme: default
-    toggle:
-      icon: material/brightness-7
-      name: Switch to dark mode
-  - accent: blue
-    media: '(prefers-color-scheme: dark)'
-    primary: cyan
-    scheme: slate
-    toggle:
-      icon: material/brightness-4
-      name: Switch to system preference

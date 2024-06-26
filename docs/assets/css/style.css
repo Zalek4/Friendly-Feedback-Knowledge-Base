@@ -1,12 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
-/*.md-header__topic {
-  -webkit-text-stroke-width: 3px;
-  -webkit-text-stroke-color: black;
-}*/
+:root {
+  --md-default-fg-color: #e1e1e1;
+  --md-default-fg-color--light: #d4d4d4;
+  --md-default-fg-color--lighter: #9c9c9c;
+  --md-default-fg-color--lightest: #292929;
+  --md-default-bg-color: #191919;
+  --md-default-bg-color--light: red;
+  --md-default-bg-color--lighter: black;
+  --md-default-bg-color--lightest: black;
 
-.md-header__button md-logo{
-    background-color: black !important;
+  --md-footer-bg-color: black;
+  --md-footer-bg-color--dark: black;
+
+  --md-typeset-a-color: rgb(20, 155, 190);
+}
+
+body {
+    font-family: Rubik !important;
+}
+
+header {
+    font-family: Rubik !important;
+}
+
+footer {
+    font-family: Rubik !important;
+}
+
+a:hover {
+    color: rgb(80, 215, 250) !important;
 }
 
 .md-header__topic {
@@ -35,6 +58,9 @@
 blockquote {
     border-radius: 2px 20px 20px 2px !important;
     margin-right: 1rem;
+    background-color: rgb(31, 31, 31);
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
 }
 
 hr {
@@ -43,4 +69,17 @@ hr {
 
 p {
     margin-right: 0.25rem !important;
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+    padding-bottom: 0.5rem !important;
+}
+
+h1 {
+    font-weight: bold !important;
+}
+
+h3 {
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+    padding-top: 0.5rem !important;
 }
