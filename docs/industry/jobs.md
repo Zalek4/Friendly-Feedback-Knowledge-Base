@@ -7,6 +7,14 @@ ___
 Masterdoc of industry professionals who are open to being contacted for advice & conversations.
 <!-- -->
 
+## Job Hunting
+___
+
+> ### [Application Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1isSrjOJQhDUUHiopO4WHxC-dsiot8Cft12CYOHpvE_o/edit?usp=sharing)
+A job applications spreadsheet made by Ellie Kirkner. Make a copy of this and use it to track the status of any jobs you've applied to.
+<!-- -->
+
+
 
 ## Portfolios
 ___

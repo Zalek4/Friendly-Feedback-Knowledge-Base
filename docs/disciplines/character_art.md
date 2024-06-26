@@ -16,6 +16,11 @@ A comprehensive human anatomy atlas that can be used as learning material and as
 ## Workflows
 ___
 
+> ### [Creating Game-Ready Hair in Blender](https://medium.com/embarkstudios/using-blender-in-game-development-e52b1c98b7e6)
+An excellent breakdown of the process Embark uses to create real-time hair. A little technical, but well worth the read.
+<!-- -->
+
+
 > ### [Dota 2 Workshop - Character Art Guide](https://help.steampowered.com/en/faqs/view/0688-7692-4D5A-1935)
 A guide to Valve's approach to character art for Dota 2. Covers topics like silhouette, color schemes, character readability, and context.
 <!-- -->

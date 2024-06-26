@@ -11,6 +11,11 @@ An excellent guide on camera framing in game cinematics. Concepts can be extrapo
 ## Normals
 ___
 
+> ### [Baking with Face Weighted Normals](https://www.youtube.com/watch?v=MpUCsWDycis)
+Baking mesh maps when using face weighted normals can be tricky. This guide shows strategies for mitigating the frustration, and achieving clean results when using the weighted normal workflow in tandem with baked mesh maps.
+<!-- -->
+
+
 > ### [This is Normal: A Guide to Normal Mapping](https://www.artstation.com/blogs/typhen/GMyG/this-is-normal-1-what-normal-maps-are-and-how-they-work)
 A 5-part series by Carlos Lemos on normals, normal maps, and how to use them in production.
 <!-- -->

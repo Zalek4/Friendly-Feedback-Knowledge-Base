@@ -43,12 +43,15 @@ nav:
   - Art Fundamentals: fundamentals/art_fundamentals.md
   - Game Art Fundamentals: fundamentals/game_art_fundamentals.md
 - Disciplines:
+  - Animation: disciplines/animation.md
   - Character Art: disciplines/character_art.md
+  - Vfx: disciplines/vfx.md
   - Environment Art: disciplines/environment_art.md
   - Technical Art: disciplines/technical_art.md
 - Industry:
   - Jobs: industry/jobs.md
 - Software:
+  - Blender: software/blender.md
   - Other: software/other.md
   - Substance 3D Designer: software/substance_3d_designer.md
   - Unreal Engine: software/unreal_engine.md
