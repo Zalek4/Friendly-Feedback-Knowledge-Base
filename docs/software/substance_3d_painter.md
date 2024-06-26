@@ -1,1 +1,0 @@
-# Substance 3D Painter
