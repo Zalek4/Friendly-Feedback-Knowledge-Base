@@ -1,3 +1,10 @@
+<div markdown="1" class="ff_badge">
+<div markdown="1" class="ff_badge_title">Resource Count</div>
+<div markdown="1" class="ff_badge_value">27</div>
+</div>
+
+___
+
 # Welcome!
 
 This website hosts all of the cool resources and technique nuggets that we've collected as a community over the years. 

@@ -74,7 +74,6 @@ plugins:
 - git-revision-date-localized:
     enable_creation_date: false
     type: timeago
-repo_url: https://github.com/Zalek4/Friendly-Feedback-Knowledge-Base
 site_name: Friendly Feedback Knowledge Base
 theme:
   custom_dir: overrides

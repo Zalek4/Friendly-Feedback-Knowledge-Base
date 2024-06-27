@@ -16,6 +16,36 @@
   --md-typeset-a-color: rgb(20, 155, 190);
 }
 
+.ff_badge {
+    display: flex;
+    width: max-content;
+    /*border: dashed red;*/
+}
+
+.ff_badge p{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.ff_badge_title {
+    color: grey;
+    background-color: rgb(31, 31, 31);
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border-radius: 10px 0px 0px 10px !important;
+}
+
+.ff_badge_value {
+    background-color: rgb(25, 111, 155);
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border-radius: 0px 10px 10px 0px !important;
+}
+
 body {
     font-family: Rubik !important;
 }
@@ -43,6 +73,7 @@ footer {
         rgba(251, 7, 217, 1) 90%,
         rgba(255, 0, 0, 1) 100%
     );
+    color: black !important;
 }
 
 .md-nav__source {
@@ -85,7 +116,10 @@ blockquote {
 }
 
 hr {
-    margin: 0.25rem !important;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
 }
 
 p {
@@ -97,6 +131,7 @@ p {
 
 h1 {
     font-weight: bold !important;
+    margin-bottom: 20px !important;
 }
 
 h3 {
