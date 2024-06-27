@@ -10,6 +10,14 @@ This course covers the full process of modeling and sculpting environments in Un
 
 > ### [Environment Production - Planning a Game](https://www.artstation.com/learning/courses/adP/planning-a-game-environment/chapters/BLYd/exporting-importing-ue5-and-maya)
 Stef Velzeboer's course on Environment Art production. Covers planning, terrain, props, tiling textures, vegitation, water, and polish.
+
+## Resources
+___
+
+> ### [Reference Image Database](https://photos.google.com/share/AF1QipM2zKMjl7DSsQzZWT-_wVHF4zge0Y8fli95OW2_fpuddnvm0M6q5DNM0bUwx25hJQ?pli=1&key=aDNzNTFHMG9JSHVzZ3p0Y2tWY3VnemROa3pDRFNB)
+A Google Photos library maintained by David McSween. Tons of excellent, high resolution images to dig through.
+<!-- -->
+
 <!-- -->
 
 ## Walkthroughs

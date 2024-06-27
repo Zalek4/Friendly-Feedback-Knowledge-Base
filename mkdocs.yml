@@ -51,6 +51,7 @@ nav:
 - Industry:
   - Jobs: industry/jobs.md
 - Software:
+  - Marvelous Designer: software/marvelous_designer.md
   - Blender: software/blender.md
   - Other: software/other.md
   - Substance 3D Designer: software/substance_3d_designer.md
