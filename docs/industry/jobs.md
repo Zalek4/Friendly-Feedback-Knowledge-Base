@@ -27,6 +27,11 @@ Cara is a social and portfolio platform for the entertainment art industry. Run 
 ## Salaries
 ___
 
+> ### [Global GameDev Salaries 2021-2024](https://twitter.com/CairoGoodbrand/status/1467213708606717954?t=wAaEHZcOfsQ1SgCAgDerjw&s=19)
+Global GameDev Salaries spreadsheet from 2021-2024. If you're looking for salary information to ask for in an interview, here's a great place to start.
+<!-- -->
+
+
 > ### [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/htmlview?usp=sharing&pru=AAABcrSmbYk)
 Global GameDev Salaries spreadsheet from 2020-2021. If you're looking for salary information to ask for in an interview, here's a great place to start.
 <!-- -->
