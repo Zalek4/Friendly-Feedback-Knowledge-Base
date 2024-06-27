@@ -14,6 +14,11 @@ Stef Velzeboer's course on Environment Art production. Covers planning, terrain,
 ## Resources
 ___
 
+> ### [FastTrack Tutorials](https://www.youtube.com/channel/UCIEGJk1_sOMt6VNeTuR3CCQ)
+A YouTube channel with some really high-quality Environment Art related tutorials.
+<!-- -->
+
+
 > ### [Reference Image Database](https://photos.google.com/share/AF1QipM2zKMjl7DSsQzZWT-_wVHF4zge0Y8fli95OW2_fpuddnvm0M6q5DNM0bUwx25hJQ?pli=1&key=aDNzNTFHMG9JSHVzZ3p0Y2tWY3VnemROa3pDRFNB)
 A Google Photos library maintained by David McSween. Tons of excellent, high resolution images to dig through.
 <!-- -->
