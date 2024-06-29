@@ -53,6 +53,7 @@ nav:
 - Industry:
   - Jobs: industry/jobs.md
 - Software:
+  - Fusion 360: software/fusion_360.md
   - Marvelous Designer: software/marvelous_designer.md
   - Blender: software/blender.md
   - Other: software/other.md
