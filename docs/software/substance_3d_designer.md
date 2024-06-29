@@ -27,3 +27,11 @@ ___
 A talk given by Ben Wilson at Substance Days 2018. He covers different strategies in which Substance Designer was used in Wolfenstein 2. Great resource for anyone interested in advanced ways to use this program.
 <!-- -->
 
+
+## Workflows
+___
+
+> ### [Creating Watercolor Textures in Substance Designer](https://www.youtube.com/watch?v=KPFep7SFIps)
+A video demonstrating a workflow from Substance Designer to Unreal Engine, focused on stylized texture rendering.
+<!-- -->
+
