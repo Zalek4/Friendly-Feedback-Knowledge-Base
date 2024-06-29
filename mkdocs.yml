@@ -56,9 +56,9 @@ nav:
 - Industry:
   - Jobs: industry/jobs.md
 - Software:
+  - Blender: software/blender.md
   - Fusion 360: software/fusion_360.md
   - Marvelous Designer: software/marvelous_designer.md
-  - Blender: software/blender.md
   - Other: software/other.md
   - Substance 3D Designer: software/substance_3d_designer.md
   - Unreal Engine: software/unreal_engine.md
