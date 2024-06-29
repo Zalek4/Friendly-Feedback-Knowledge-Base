@@ -1,5 +1,13 @@
 # Substance 3D Designer
 
+## Resources
+___
+
+> ### [Sample Substance Graphs](https://substance3d.adobe.com/documentation/sddoc/sample-graphs-215286336.html)
+Official examples of filters, inheritance, and pixel processors.
+<!-- -->
+
+
 ## Tools
 ___
 
