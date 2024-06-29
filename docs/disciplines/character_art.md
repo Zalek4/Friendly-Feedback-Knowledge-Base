@@ -16,6 +16,11 @@ A comprehensive human anatomy atlas that can be used as learning material and as
 ## Workflows
 ___
 
+> ### [The Fastest Way to Sculpt Characters in 3D](https://www.youtube.com/watch?v=Oab3268dGC8)
+A video by FlippedNormals talking about some neat Character Art speed boosts. Mainly talks about the Daz-to-ZBrush workflow.
+<!-- -->
+
+
 > ### [Creating Game-Ready Hair in Blender](https://medium.com/embarkstudios/using-blender-in-game-development-e52b1c98b7e6)
 An excellent breakdown of the process Embark uses to create real-time hair. A little technical, but well worth the read.
 <!-- -->

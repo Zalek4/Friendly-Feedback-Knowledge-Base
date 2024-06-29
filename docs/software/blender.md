@@ -3,6 +3,11 @@
 ## Tools
 ___
 
+> ### [Substance 3D Addon](https://substance3d.adobe.com/magazine/the-substance-3d-add-on-for-blender-is-here/)
+An addon made by Adobe for accessing Substance materials directly inside of Blender.
+<!-- -->
+
+
 > ### [Bystedts Blender Baker](https://3dbystedt.gumroad.com/l/JAqLT)
 This addon streamlines the texture baking process in Blender.
 <!-- -->
