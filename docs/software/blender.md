@@ -3,6 +3,11 @@
 ## Tools
 ___
 
+> ### [Blender Retopology Tools and Addons](https://www.youtube.com/watch?v=xWF49Zu-i-A)
+This video covers all of Blender's built-in tools for retopology. It also covers addons including Instatmesh, Bsurfaces, QuadRemesher, Retopoflow, Tessalator, and Speedretopo.
+<!-- -->
+
+
 > ### [Substance 3D Addon](https://substance3d.adobe.com/magazine/the-substance-3d-add-on-for-blender-is-here/)
 An addon made by Adobe for accessing Substance materials directly inside of Blender.
 <!-- -->
