@@ -5,7 +5,7 @@
 
 ___
 
-# Welcome!!
+# Welcome!
 
 This website hosts all of the cool resources and technique nuggets that we've collected as a community over the years. 
 
