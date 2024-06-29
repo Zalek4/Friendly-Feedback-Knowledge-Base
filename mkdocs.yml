@@ -43,12 +43,12 @@ nav:
   - Art Fundamentals: fundamentals/art_fundamentals.md
   - Game Art Fundamentals: fundamentals/game_art_fundamentals.md
 - Disciplines:
-  - Prop Art: disciplines/prop_art.md
-  - Design: disciplines/design.md
   - Animation: disciplines/animation.md
   - Character Art: disciplines/character_art.md
+  - Design: disciplines/design.md
   - Environment Art: disciplines/environment_art.md
   - Lighting: disciplines/lighting.md
+  - Prop Art: disciplines/prop_art.md
   - Technical Art: disciplines/technical_art.md
 - Industry:
   - Jobs: industry/jobs.md
