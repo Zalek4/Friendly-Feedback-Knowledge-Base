@@ -3,6 +3,11 @@
 ## Workflows
 ___
 
+> ### [Improve Your Renders With Movie Render Queue](https://www.youtube.com/watch?v=FxvF3zncClA)
+William Faucher walks through the movie render queue in Unreal Engine.
+<!-- -->
+
+
 > ### [Making Tools in Blueprint with Editor Utility Widgets](https://www.youtube.com/watch?v=OY4y2VRpPU8)
 A video by Tech Art Aid explaining the basics of creating editor tools with some of Unreal Engine's built-in systems.
 <!-- -->
