@@ -31,6 +31,11 @@ A talk given by Ben Wilson at Substance Days 2018. He covers different strategie
 ## Workflows
 ___
 
+> ### [Shape Curl Nodes](https://www.artstation.com/artwork/Nx3lJ5)
+A breakdown for curling and twisting leaves for a more realistic look. Created by Sherif Dawoud.
+<!-- -->
+
+
 > ### [Creating Watercolor Textures in Substance Designer](https://www.youtube.com/watch?v=KPFep7SFIps)
 A video demonstrating a workflow from Substance Designer to Unreal Engine, focused on stylized texture rendering.
 <!-- -->
