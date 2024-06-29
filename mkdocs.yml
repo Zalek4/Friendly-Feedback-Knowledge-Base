@@ -1,4 +1,7 @@
 extra:
+  analytics:
+    provider: google
+    property: G-ZRWXN3XZSC
   social:
   - icon: fontawesome/brands/github
     link: https://github.com/Zalek4/Friendly-Feedback-Knowledge-Base/tree/main
