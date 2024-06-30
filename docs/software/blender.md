@@ -31,6 +31,11 @@ Blender Depot acts as a hub where artists can easily find and batch install Blen
 ## Workflows
 ___
 
+> ### [Broken Wood in Blender](https://www.youtube.com/watch?v=jBXgIkD9TXg)
+A cool strategy for making broken wood with Substance Designer and Blender.
+<!-- -->
+
+
 > ### [Adding Stuff Without Booleans](https://twitter.com/JanvandenHemel/status/1446738389903024132?t=5sy1NPLQGII-DxeZC0-MlA&s=19)
 A cool strategy by Jan van den Hemel for 'joining' floating geometry onto the surface of a parent mesh using the Data Transfer modifier.
 <!-- -->

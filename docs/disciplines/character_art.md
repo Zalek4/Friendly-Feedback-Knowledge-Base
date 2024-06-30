@@ -12,6 +12,14 @@ A comprehensive human anatomy atlas that can be used as learning material and as
 3D muscular reference for the human expression of disgust.
 <!-- -->
 
+## Walkthroughs
+___
+
+> ### [Technical Study: Overwatch](https://polycount.com/discussion/170394/technical-study-overwatch-image-heavy)
+A Polycount thread breaking down the strategies used for art creation in Overwatch. Includes both environment and character strategies.
+<!-- -->
+
+
 
 ## Workflows
 ___

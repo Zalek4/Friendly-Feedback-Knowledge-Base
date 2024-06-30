@@ -23,6 +23,11 @@ A free custom node by Andrey Frolov that adds some crazy curve tools to Substanc
 ## Walkthroughs
 ___
 
+> ### [Cell-Based Damage in Substance Designer](https://www.artstation.com/artwork/B1Xz9m)
+An excellent tutorial by Gustav Engman on his approach to damage in Substance Designer. There's some great basic and advanced techniques in here.
+<!-- -->
+
+
 > ### [Ruins of the Reich](https://www.artstation.com/artwork/5LlzO)
 A talk given by Ben Wilson at Substance Days 2018. He covers different strategies in which Substance Designer was used in Wolfenstein 2. Great resource for anyone interested in advanced ways to use this program.
 <!-- -->

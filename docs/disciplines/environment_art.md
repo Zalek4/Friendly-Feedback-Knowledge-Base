@@ -37,6 +37,16 @@ A GDC talk from 2013 about the modular design and art approach in Skyrim. An old
 ## Workflows
 ___
 
+> ### [Tips on Sculpting Statues for Environment Art](https://80.lv/articles/tips-on-sculpting-3d-statues-for-environment-art/)
+Balazs Domjan discusses his approach to modeling bronze animal statues, an ornate fountain, and rocks in ZBrush and Maya.
+<!-- -->
+
+
+> ### [Fundamentals of Modular Kits](https://www.exp-points.com/exp-tutotrials-luan-vetoreti-fundamentals-of-modular-kits)
+Modular Kits are an essential workflow that every environment artist should possess and understand. This overview by Luan Vetoreti is an excellent starting point.
+<!-- -->
+
+
 > ### [Modular Brick Walls in UE4](https://www.artstation.com/artwork/oAWOJO)
 A great breakdown focused on how to modularize brick wall damage.
 <!-- -->
