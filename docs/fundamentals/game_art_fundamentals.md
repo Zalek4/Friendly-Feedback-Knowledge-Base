@@ -3,6 +3,11 @@
 ## Composition
 ___
 
+> ### [Environment Design as Spatial Cinematography](https://www.youtube.com/watch?v=L27Qb20AYmc)
+In this 2019 GDC session, Rockstar North's Miriam Bellard explores the concept of spatial cinematography in theory and practice using examples from GTA V Online DLC.
+<!-- -->
+
+
 > ### [Cinematic Camera Framing 101](https://www.linkedin.com/pulse/unreal-engine-cinematic-cameras-framing-101-matteo-grossi/)
 An excellent guide on camera framing in game cinematics. Concepts can be extrapolated to encompass most other game development disciplines.
 <!-- -->

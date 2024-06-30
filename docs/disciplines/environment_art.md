@@ -37,6 +37,11 @@ A GDC talk from 2013 about the modular design and art approach in Skyrim. An old
 ## Workflows
 ___
 
+> ### [Modular Brick Walls in UE4](https://www.artstation.com/artwork/oAWOJO)
+A great breakdown focused on how to modularize brick wall damage.
+<!-- -->
+
+
 > ### [Modular Kits for Game Environments w/ Jon Arellano](https://www.youtube.com/watch?v=77xPHfzciiY)
 Great tips and tricks related to modular kits for game environments. An excellent place to start if you're new to modular asset creation.
 <!-- -->

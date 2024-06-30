@@ -7,3 +7,11 @@ ___
 In this episode, we discuss the design basics necessary to build a valuable portfolio and showcases several examples.
 <!-- -->
 
+
+## Elements of Art
+___
+
+> ### [Avoiding Tangents](https://emptyeasel.com/2008/11/18/avoiding-tangents-9-visual-blunders-every-artist-should-watch-out-for/)
+A great read about tangents, where they sneak into our art, and how to avoid them.
+<!-- -->
+
