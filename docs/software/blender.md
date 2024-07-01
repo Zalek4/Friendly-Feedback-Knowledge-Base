@@ -3,6 +3,11 @@
 ## Tools
 ___
 
+> ### [GrabDoc](https://gumroad.com/l/grabdoc)
+A Blender addon for quickly baking trimsheets and tileable texture maps.
+<!-- -->
+
+
 > ### [Blender Retopology Tools and Addons](https://www.youtube.com/watch?v=xWF49Zu-i-A)
 This video covers all of Blender's built-in tools for retopology. It also covers addons including Instatmesh, Bsurfaces, QuadRemesher, Retopoflow, Tessalator, and Speedretopo.
 <!-- -->
