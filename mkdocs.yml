@@ -1,7 +1,7 @@
 extra:
   analytics:
-    provider: google
     property: G-ZRWXN3XZSC
+    provider: google
   social:
   - icon: fontawesome/brands/github
     link: https://github.com/Zalek4/Friendly-Feedback-Knowledge-Base/tree/main
@@ -61,6 +61,7 @@ nav:
   - Marvelous Designer: software/marvelous_designer.md
   - Other: software/other.md
   - Substance 3D Designer: software/substance_3d_designer.md
+  - Substance 3D Painter: software/substance_3d_painter.md
   - Unreal Engine: software/unreal_engine.md
 plugins:
 - search

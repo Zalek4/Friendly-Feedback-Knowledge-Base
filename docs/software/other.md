@@ -11,6 +11,11 @@ A list of alternatives to popular Adobe programs. Each program is labeled with i
 ## Utilities
 ___
 
+> ### [RIOT - Radical Image Optimization Tool](https://riot-optimizer.com/)
+A free image optimizer that will let you to visually adjust compression parameters while keeping a minimum file size. Has a real-time side-by-side comparision.
+<!-- -->
+
+
 > ### [Epic Pen](https://epic-pen.com/)
 The Worlds leading desktop marker software. Epic Pen allows you to draw over any software on Windows and Mac OS.
 <!-- -->
