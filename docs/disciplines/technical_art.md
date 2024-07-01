@@ -11,6 +11,11 @@ A website hosting a wealth of  knowledge related to Technical Art. Mostly Houdin
 ## Shaders
 ___
 
+> ### [Comic Book Shading in Blender](https://www.youtube.com/watch?v=dRP1DqShceM)
+A neat walkthrough going over the stippled shadow style of comic books with Blender's shader graph.
+<!-- -->
+
+
 > ### [The Book of Shaders](https://thebookofshaders.com/)
 A gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 <!-- -->

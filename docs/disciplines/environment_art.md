@@ -28,6 +28,16 @@ A Google Photos library maintained by David McSween. Tons of excellent, high res
 ## Walkthroughs
 ___
 
+> ### [The Lost Temple of Nacon](https://80.lv/articles/the-lost-temple-of-nacon-building-a-modular-environment-in-ue4/)
+Victoria Zavhorodnia talks in detail about her first UE4 scene - The Lost Temple of Nacon. Modular architecture, background waterfalls, vegetation, work with colors, and more.
+<!-- -->
+
+
+> ### [Creating Stylized Landscapes](https://www.youtube.com/watch?v=jwcBVt_wY5Q)
+A video walking through modular kit creation and implementing it in Unreal Engine with a focus on stylized visuals.
+<!-- -->
+
+
 > ### [Skyrim's Modular Level Design](http://blog.joelburgess.com/2013/04/skyrims-modular-level-design-gdc-2013.html)
 A GDC talk from 2013 about the modular design and art approach in Skyrim. An oldie, but a goodie.
 <!-- -->

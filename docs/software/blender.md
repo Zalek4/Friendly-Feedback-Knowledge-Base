@@ -31,6 +31,11 @@ Blender Depot acts as a hub where artists can easily find and batch install Blen
 ## Workflows
 ___
 
+> ### [Easy IK Rigging in Blender](https://www.youtube.com/watch?v=77RvfjaWvRQ)
+A 'Lazy Tutorial' by Ian Hubert going over quick and easy IK rigging with Blender's tools.
+<!-- -->
+
+
 > ### [Broken Wood in Blender](https://www.youtube.com/watch?v=jBXgIkD9TXg)
 A cool strategy for making broken wood with Substance Designer and Blender.
 <!-- -->
