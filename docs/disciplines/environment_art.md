@@ -4,7 +4,7 @@
 ___
 
 > ### [The Composition of Modular Buildings](https://brickset.com/article/57168/the-composition-of-modular-buildings)
-Pau Padrós discusses how he applies modular composition to his Lego models. A lot of these thoughts can be applied to Environment Art.
+Pau Padros discusses how he applies modular composition to his Lego models. A lot of these thoughts can be applied to Environment Art.
 <!-- -->
 
 
