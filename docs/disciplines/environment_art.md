@@ -36,6 +36,11 @@ A Google Photos library maintained by David McSween. Tons of excellent, high res
 ## Walkthroughs
 ___
 
+> ### [Making a 3D Organic Diorama: Bricks and Vegetation](https://80.lv/articles/making-a-3d-organic-diorama-bricks-and-vegetation/)
+Anastasiya Osichkina breaks down her project Ruins created during CGMA's course Intro to Environment Art. 3ds Max, ZBrush, Substance tools, and UE4.
+<!-- -->
+
+
 > ### [The Lost Temple of Nacon](https://80.lv/articles/the-lost-temple-of-nacon-building-a-modular-environment-in-ue4/)
 Victoria Zavhorodnia talks in detail about her first UE4 scene - The Lost Temple of Nacon. Modular architecture, background waterfalls, vegetation, work with colors, and more.
 <!-- -->
