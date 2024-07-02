@@ -15,6 +15,14 @@ ___
 A guide by Ben Bolten on how to approach prop lighting inside of Marmoset Toolbag 3/4.
 <!-- -->
 
+## Walkthroughs
+___
+
+> ### [Creating a Really Cool Door with ZBrush and Blender](https://80.lv/articles/creating-a-game-asset-in-zbrush-and-blender/?s=09)
+Vasiliy Poryagin shared the complete workflow of creating an elaborate game-ready door in ZBrush, Blender, Substance Painter, and UE4.
+<!-- -->
+
+
 
 ## Workflows
 ___
