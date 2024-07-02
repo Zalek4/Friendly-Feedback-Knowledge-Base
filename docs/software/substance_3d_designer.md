@@ -36,6 +36,11 @@ A talk given by Ben Wilson at Substance Days 2018. He covers different strategie
 ## Workflows
 ___
 
+> ### [Making Leaves with Substance Designer](https://twitter.com/NaturallyCG/status/1277038149974269953?s=09)
+A quick and simple way to make leaf shapes in Substance Designer.
+<!-- -->
+
+
 > ### [Making Twigs with Substance Designer](https://twitter.com/NaturallyCG/status/1285645245334589440?s=09)
 Method to make a twig base with multiple subtwigs.
 <!-- -->
