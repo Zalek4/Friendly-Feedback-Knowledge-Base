@@ -12,3 +12,11 @@ A PDF of the design document for Dirty Bomb.
 A PDF of the design document for Fallout Brotherhood of Steel 2.
 <!-- -->
 
+
+## Randomness
+___
+
+> ### [The Two Types of Random in Game Design](https://www.youtube.com/watch?v=dwI5b-wRLic)
+GMTK looks at the way randomness is used in games - and why some forms are more contentious than others.
+<!-- -->
+
