@@ -7,6 +7,14 @@ ___
 [DESCRIPTION]
 <!-- -->
 
+## Courses
+___
+
+> ### [Photorealistic Faces: Vertex School](https://80.lv/articles/mastering-character-art-workflow-at-vertex-school/)
+A course from Vertex School that extensively covers facial anatomy and photorealistic portraits of your character sculpts.
+<!-- -->
+
+
 
 ## Resources
 ___

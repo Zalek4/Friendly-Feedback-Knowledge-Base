@@ -18,6 +18,11 @@ A guide by Ben Bolten on how to approach prop lighting inside of Marmoset Toolba
 ## Walkthroughs
 ___
 
+> ### [UV Masks Tutorial](https://www.artstation.com/marketplace/p/p3Mn/uv-masks-tutorial-barricade-bus-asset?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace)
+An excellent tutorial by Hamish Ames walking through the UV masks workflow for environment props.
+<!-- -->
+
+
 > ### [Creating a Really Cool Door with ZBrush and Blender](https://80.lv/articles/creating-a-game-asset-in-zbrush-and-blender/?s=09)
 Vasiliy Poryagin shared the complete workflow of creating an elaborate game-ready door in ZBrush, Blender, Substance Painter, and UE4.
 <!-- -->
@@ -26,6 +31,11 @@ Vasiliy Poryagin shared the complete workflow of creating an elaborate game-read
 
 ## Workflows
 ___
+
+> ### [The Ultimate Guide to Creating Grass and Vegitation for Games](https://www.youtube.com/watch?v=ek9kK6zmMf8)
+An excellent guide on creating foliage inside restrictions for video games.
+<!-- -->
+
 
 > ### [Quick Stylized Texturing in Substance Painter](https://www.youtube.com/watch?v=Oc2gcNVQmDw)
 A tutorial by James Horn going over some quick techniques to get meaningful results in Substance Painter. Techniques in this video aren't exclusive to stylized art.

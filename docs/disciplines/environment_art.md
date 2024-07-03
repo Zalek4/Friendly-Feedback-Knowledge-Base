@@ -65,6 +65,11 @@ A GDC talk from 2013 about the modular design and art approach in Skyrim. An old
 ## Workflows
 ___
 
+> ### [Hybrid Trimsheet Workflow](https://www.artstation.com/marketplace/p/jdMO/escalator-hybrid-trim-pdf-tutorial?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace)
+An excellent tutorial by Hamish Ames explaining how you can combine trimsheets with unique masks/bakes for efficient, high quality results.
+<!-- -->
+
+
 > ### [Tips on Sculpting Statues for Environment Art](https://80.lv/articles/tips-on-sculpting-3d-statues-for-environment-art/)
 Balazs Domjan discusses his approach to modeling bronze animal statues, an ornate fountain, and rocks in ZBrush and Maya.
 <!-- -->
