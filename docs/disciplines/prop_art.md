@@ -1,5 +1,18 @@
 # Prop Art
 
+## Breakdowns
+___
+
+> ### [UV Masks Tutorial](https://www.artstation.com/marketplace/p/p3Mn/uv-masks-tutorial-barricade-bus-asset?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace)
+An excellent tutorial by Hamish Ames walking through the UV masks workflow for environment props.
+<!-- -->
+
+
+> ### [Creating a Really Cool Door with ZBrush and Blender](https://80.lv/articles/creating-a-game-asset-in-zbrush-and-blender/?s=09)
+Vasiliy Poryagin shared the complete workflow of creating an elaborate game-ready door in ZBrush, Blender, Substance Painter, and UE4.
+<!-- -->
+
+
 ## Courses
 ___
 
@@ -14,19 +27,6 @@ ___
 > ### [Lighting For Asset Presentation](https://www.artstation.com/benbolton/blog/YPL3/lighting-for-asset-presentation)
 A guide by Ben Bolten on how to approach prop lighting inside of Marmoset Toolbag 3/4.
 <!-- -->
-
-## Walkthroughs
-___
-
-> ### [UV Masks Tutorial](https://www.artstation.com/marketplace/p/p3Mn/uv-masks-tutorial-barricade-bus-asset?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace)
-An excellent tutorial by Hamish Ames walking through the UV masks workflow for environment props.
-<!-- -->
-
-
-> ### [Creating a Really Cool Door with ZBrush and Blender](https://80.lv/articles/creating-a-game-asset-in-zbrush-and-blender/?s=09)
-Vasiliy Poryagin shared the complete workflow of creating an elaborate game-ready door in ZBrush, Blender, Substance Painter, and UE4.
-<!-- -->
-
 
 
 ## Workflows

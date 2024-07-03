@@ -1,5 +1,33 @@
 # Environment Art
 
+## Breakdowns
+___
+
+> ### [Veturheim Ruins](https://80.lv/articles/veturheim-ruins-environment-production-pipeline/)
+Lucas Josefsson talks in detail about the production of his UE4 scene Veturheim Ruins focusing on modeling, texturing, and scene assembly workflows.
+<!-- -->
+
+
+> ### [Making a 3D Organic Diorama: Bricks and Vegetation](https://80.lv/articles/making-a-3d-organic-diorama-bricks-and-vegetation/)
+Anastasiya Osichkina breaks down her project Ruins created during CGMA's course Intro to Environment Art. 3ds Max, ZBrush, Substance tools, and UE4.
+<!-- -->
+
+
+> ### [The Lost Temple of Nacon](https://80.lv/articles/the-lost-temple-of-nacon-building-a-modular-environment-in-ue4/)
+Victoria Zavhorodnia talks in detail about her first UE4 scene - The Lost Temple of Nacon. Modular architecture, background waterfalls, vegetation, work with colors, and more.
+<!-- -->
+
+
+> ### [Creating Stylized Landscapes](https://www.youtube.com/watch?v=jwcBVt_wY5Q)
+A video walking through modular kit creation and implementing it in Unreal Engine with a focus on stylized visuals.
+<!-- -->
+
+
+> ### [Skyrim's Modular Level Design](http://blog.joelburgess.com/2013/04/skyrims-modular-level-design-gdc-2013.html)
+A GDC talk from 2013 about the modular design and art approach in Skyrim. An oldie, but a goodie.
+<!-- -->
+
+
 ## Composition
 ___
 
@@ -30,36 +58,6 @@ A YouTube channel with some really high-quality Environment Art related tutorial
 > ### [Reference Image Database](https://photos.google.com/share/AF1QipM2zKMjl7DSsQzZWT-_wVHF4zge0Y8fli95OW2_fpuddnvm0M6q5DNM0bUwx25hJQ?pli=1&key=aDNzNTFHMG9JSHVzZ3p0Y2tWY3VnemROa3pDRFNB)
 A Google Photos library maintained by David McSween. Tons of excellent, high resolution images to dig through.
 <!-- -->
-
-<!-- -->
-
-## Walkthroughs
-___
-
-> ### [Veturheim Ruins](https://80.lv/articles/veturheim-ruins-environment-production-pipeline/)
-Lucas Josefsson talks in detail about the production of his UE4 scene Veturheim Ruins focusing on modeling, texturing, and scene assembly workflows.
-<!-- -->
-
-
-> ### [Making a 3D Organic Diorama: Bricks and Vegetation](https://80.lv/articles/making-a-3d-organic-diorama-bricks-and-vegetation/)
-Anastasiya Osichkina breaks down her project Ruins created during CGMA's course Intro to Environment Art. 3ds Max, ZBrush, Substance tools, and UE4.
-<!-- -->
-
-
-> ### [The Lost Temple of Nacon](https://80.lv/articles/the-lost-temple-of-nacon-building-a-modular-environment-in-ue4/)
-Victoria Zavhorodnia talks in detail about her first UE4 scene - The Lost Temple of Nacon. Modular architecture, background waterfalls, vegetation, work with colors, and more.
-<!-- -->
-
-
-> ### [Creating Stylized Landscapes](https://www.youtube.com/watch?v=jwcBVt_wY5Q)
-A video walking through modular kit creation and implementing it in Unreal Engine with a focus on stylized visuals.
-<!-- -->
-
-
-> ### [Skyrim's Modular Level Design](http://blog.joelburgess.com/2013/04/skyrims-modular-level-design-gdc-2013.html)
-A GDC talk from 2013 about the modular design and art approach in Skyrim. An oldie, but a goodie.
-<!-- -->
-
 
 
 ## Workflows

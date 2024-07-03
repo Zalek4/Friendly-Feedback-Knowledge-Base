@@ -1,5 +1,13 @@
 # Technical Art
 
+## Breakdowns
+___
+
+> ### [Tree of Mystery: A Small Environment Made with Houdini](https://www.artstation.com/dean_scott/blog)
+A 3-part series written by Dean Scott on creating a small environment with Houdini. Talks about both organic and hard surface assets.
+<!-- -->
+
+
 ## Resources
 ___
 
@@ -18,13 +26,5 @@ A neat walkthrough going over the stippled shadow style of comic books with Blen
 
 > ### [The Book of Shaders](https://thebookofshaders.com/)
 A gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
-<!-- -->
-
-
-## Walkthroughs
-___
-
-> ### [Tree of Mystery: A Small Environment Made with Houdini](https://www.artstation.com/dean_scott/blog)
-A 3-part series written by Dean Scott on creating a small environment with Houdini. Talks about both organic and hard surface assets.
 <!-- -->
 

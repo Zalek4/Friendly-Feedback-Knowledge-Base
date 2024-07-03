@@ -7,13 +7,21 @@ ___
 [DESCRIPTION]
 <!-- -->
 
+
+## Breakdowns
+___
+
+> ### [Technical Study: Overwatch](https://polycount.com/discussion/170394/technical-study-overwatch-image-heavy)
+A Polycount thread breaking down the strategies used for art creation in Overwatch. Includes both environment and character strategies.
+<!-- -->
+
+
 ## Courses
 ___
 
 > ### [Photorealistic Faces: Vertex School](https://80.lv/articles/mastering-character-art-workflow-at-vertex-school/)
 A course from Vertex School that extensively covers facial anatomy and photorealistic portraits of your character sculpts.
 <!-- -->
-
 
 
 ## Resources
@@ -27,14 +35,6 @@ A comprehensive human anatomy atlas that can be used as learning material and as
 > ### [Disgust - Facial Expression](https://www.artstation.com/artwork/QXbZad)
 3D muscular reference for the human expression of disgust.
 <!-- -->
-
-## Walkthroughs
-___
-
-> ### [Technical Study: Overwatch](https://polycount.com/discussion/170394/technical-study-overwatch-image-heavy)
-A Polycount thread breaking down the strategies used for art creation in Overwatch. Includes both environment and character strategies.
-<!-- -->
-
 
 
 ## Workflows

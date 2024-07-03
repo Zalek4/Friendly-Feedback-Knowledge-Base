@@ -1,5 +1,18 @@
 # Substance 3D Designer
 
+## Breakdowns
+___
+
+> ### [Cell-Based Damage in Substance Designer](https://www.artstation.com/artwork/B1Xz9m)
+An excellent tutorial by Gustav Engman on his approach to damage in Substance Designer. There's some great basic and advanced techniques in here.
+<!-- -->
+
+
+> ### [Ruins of the Reich](https://www.artstation.com/artwork/5LlzO)
+A talk given by Ben Wilson at Substance Days 2018. He covers different strategies in which Substance Designer was used in Wolfenstein 2. Great resource for anyone interested in advanced ways to use this program.
+<!-- -->
+
+
 ## Resources
 ___
 
@@ -18,18 +31,6 @@ Substance Player allows you to view Substance 3D files outside of Substance Desi
 
 > ### [Normal Curve Generator Node](https://www.artstation.com/artwork/xDagzE)
 A free custom node by Andrey Frolov that adds some crazy curve tools to Substance Designer.
-<!-- -->
-
-## Walkthroughs
-___
-
-> ### [Cell-Based Damage in Substance Designer](https://www.artstation.com/artwork/B1Xz9m)
-An excellent tutorial by Gustav Engman on his approach to damage in Substance Designer. There's some great basic and advanced techniques in here.
-<!-- -->
-
-
-> ### [Ruins of the Reich](https://www.artstation.com/artwork/5LlzO)
-A talk given by Ben Wilson at Substance Days 2018. He covers different strategies in which Substance Designer was used in Wolfenstein 2. Great resource for anyone interested in advanced ways to use this program.
 <!-- -->
 
 
