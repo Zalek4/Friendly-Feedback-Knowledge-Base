@@ -63,6 +63,11 @@ A Google Photos library maintained by David McSween. Tons of excellent, high res
 ## Workflows
 ___
 
+> ### [Technical Tips for Environment Artists: Part 1](https://80.lv/articles/technical-tips-for-environment-artists-part-1-001agt-004adk/)
+Harry Gray goes through the optimization methods and workflows he used in the creation of a junkyard environment. This covers blockouts, rubble piles, and various optimization tips.
+<!-- -->
+
+
 > ### [Hybrid Trimsheet Workflow](https://www.artstation.com/marketplace/p/jdMO/escalator-hybrid-trim-pdf-tutorial?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace)
 An excellent tutorial by Hamish Ames explaining how you can combine trimsheets with unique masks/bakes for efficient, high quality results.
 <!-- -->
