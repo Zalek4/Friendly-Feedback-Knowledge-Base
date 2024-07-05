@@ -1,5 +1,13 @@
 # Game Art Fundamentals
 
+## Art Direction
+___
+
+> ### [A No-Nonsense Approach to Designing Horizon Zero Dawn's Robot Dinosaurs](https://www.youtube.com/watch?v=iDqDPsjrz94)
+In this 2018 GDC Art Direction Bootcamp session, Guerrilla Games' Jan-Bart Van Beek breaks down the process for creating the visual style that defines the robotic dinosaur enemies of Horizon Zero Dawn.
+<!-- -->
+
+
 ## Composition
 ___
 
