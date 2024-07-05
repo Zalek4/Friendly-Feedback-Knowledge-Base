@@ -36,6 +36,11 @@ Blender Depot acts as a hub where artists can easily find and batch install Blen
 ## Workflows
 ___
 
+> ### [Sewing Pants and Shirts in Blender](https://www.youtube.com/watch?v=HPz5gk_AT6w)
+A great tutorial showing how to sew basic clothing together in Blender.
+<!-- -->
+
+
 > ### [Easy IK Rigging in Blender](https://www.youtube.com/watch?v=77RvfjaWvRQ)
 A 'Lazy Tutorial' by Ian Hubert going over quick and easy IK rigging with Blender's tools.
 <!-- -->
