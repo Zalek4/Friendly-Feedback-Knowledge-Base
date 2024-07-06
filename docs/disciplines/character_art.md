@@ -4,7 +4,7 @@
 ___
 
 > ### [21 Tips on Capturing Human Likeness](https://www.artstation.com/artwork/w8yrQO)
-[DESCRIPTION]
+An excellent breakdown of how to better capture the human likeness. Mostly covers gathering good reference.
 <!-- -->
 
 

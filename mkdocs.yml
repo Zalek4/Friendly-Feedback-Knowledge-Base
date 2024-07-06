@@ -46,25 +46,25 @@ nav:
   - Art Fundamentals: fundamentals/art_fundamentals.md
   - Game Art Fundamentals: fundamentals/game_art_fundamentals.md
 - Disciplines:
-  - Material Art: disciplines/material_art.md
   - Animation: disciplines/animation.md
   - Character Art: disciplines/character_art.md
   - Design: disciplines/design.md
   - Environment Art: disciplines/environment_art.md
   - Lighting: disciplines/lighting.md
+  - Material Art: disciplines/material_art.md
   - Prop Art: disciplines/prop_art.md
   - Technical Art: disciplines/technical_art.md
 - Industry:
   - Jobs: industry/jobs.md
 - Software:
   - Blender: software/blender.md
-  - Zbrush: software/zbrush.md
   - Fusion 360: software/fusion_360.md
   - Marvelous Designer: software/marvelous_designer.md
   - Other: software/other.md
   - Substance 3D Designer: software/substance_3d_designer.md
   - Substance 3D Painter: software/substance_3d_painter.md
   - Unreal Engine: software/unreal_engine.md
+  - ZBrush: software/zbrush.md
 plugins:
 - search
 - mkdocs-video
