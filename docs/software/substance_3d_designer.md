@@ -37,6 +37,11 @@ A free custom node by Andrey Frolov that adds some crazy curve tools to Substanc
 ## Workflows
 ___
 
+> ### [Creating Realistic Material Cracks in Substance Designer](https://www.youtube.com/watch?v=6q64khJqQxo)
+Learn how to create realistic material cracks in Adobe Substance Designer with senior material artist Javier Perez.
+<!-- -->
+
+
 > ### [Making Leaves with Substance Designer](https://twitter.com/NaturallyCG/status/1277038149974269953?s=09)
 A quick and simple way to make leaf shapes in Substance Designer.
 <!-- -->
