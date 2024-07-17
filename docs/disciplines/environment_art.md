@@ -39,6 +39,11 @@ Pau Padros discusses how he applies modular composition to his Lego models. A lo
 ## Courses
 ___
 
+> ### [Environment Sculpting for Games](https://www.exp-points.com/exp-ivanna-liittschwager-zbrush-sculpting-games)
+In this tutorial, Ivanna Liittschwager will guide you through her process of sculpting assets using Zbrush, combining various workflows for creating wood, metal, brick work and more.
+<!-- -->
+
+
 > ### [Advanced Environment Art - Photogrammetry](https://www.vertexschool.com/Photogrammetry-Bootcamp)
 This course covers the full process of modeling and sculpting environments in Unreal using photogrammetry.
 <!-- -->
