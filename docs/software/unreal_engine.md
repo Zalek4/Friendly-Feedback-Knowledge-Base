@@ -24,6 +24,11 @@ A lightweight set of tools to quickly block out levels in Unreal Engine.
 ## Workflows
 ___
 
+> ### [UE4 - Layered Materials Setup](https://www.youtube.com/watch?v=I9w9sT1doRc)
+A great walkthrough of how to set up base materials, master materials, and layer parameters for layerd materials in Unreal Engine 4.
+<!-- -->
+
+
 > ### [Custom Collision for Unreal Engine](https://www.artstation.com/marketplace/p/pOYR/ue4-custom-collision-pdf-tutorial?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace)
 A tutorial by Hamish Ames on how to make custon collision meshes for Unreal Engine.
 <!-- -->
