@@ -3,6 +3,11 @@
 ## Tools
 ___
 
+> ### [Blendit](https://www.youtube.com/watch?v=SjtItfeyHII)
+Distance field material blending for Blender.
+<!-- -->
+
+
 > ### [GrabDoc](https://gumroad.com/l/grabdoc)
 A Blender addon for quickly baking trimsheets and tileable texture maps.
 <!-- -->

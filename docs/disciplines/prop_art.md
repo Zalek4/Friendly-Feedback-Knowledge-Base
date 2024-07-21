@@ -32,6 +32,11 @@ A guide by Ben Bolten on how to approach prop lighting inside of Marmoset Toolba
 ## Workflows
 ___
 
+> ### [Quick Tip: Making Normals Pop with Curvature](https://twitter.com/damjanmx/status/1309539929572225024?s=19)
+A quick breakdown of what injecting the curvature map into a normal map can do to improve contrast and overall readability of a normal map.
+<!-- -->
+
+
 > ### [The Ultimate Guide to Creating Grass and Vegitation for Games](https://www.youtube.com/watch?v=ek9kK6zmMf8)
 An excellent guide on creating foliage inside restrictions for video games.
 <!-- -->

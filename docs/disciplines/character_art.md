@@ -27,6 +27,11 @@ A course from Vertex School that extensively covers facial anatomy and photoreal
 ## Resources
 ___
 
+> ### [Jim Varney Expression Reference](https://cdn.discordapp.com/attachments/607019459760095232/763169438710497310/FB_IMG_1602024161249.jpg?ex=669e37ad&is=669ce62d&hm=bef28cc054b05adab8e9ee3aab0933c4c3fc0123db175521f2611286b1df5b3f&)
+A neat one-sheet of Jim Varney's exaggerated expressions.
+<!-- -->
+
+
 > ### [3D Atlas of The Human Anatomy](https://80.lv/articles/a-great-3d-atlas-of-human-anatomy/)
 A comprehensive human anatomy atlas that can be used as learning material and as a reference.
 <!-- -->
