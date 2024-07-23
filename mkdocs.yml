@@ -46,9 +46,9 @@ nav:
   - Art Fundamentals: fundamentals/art_fundamentals.md
   - Game Art Fundamentals: fundamentals/game_art_fundamentals.md
 - Disciplines:
-  - Concept Art: disciplines/concept_art.md
   - Animation: disciplines/animation.md
   - Character Art: disciplines/character_art.md
+  - Concept Art: disciplines/concept_art.md
   - Design: disciplines/design.md
   - Environment Art: disciplines/environment_art.md
   - Lighting: disciplines/lighting.md
@@ -58,9 +58,9 @@ nav:
 - Industry:
   - Jobs: industry/jobs.md
 - Software:
-  - Houdini: software/houdini.md
   - Blender: software/blender.md
   - Fusion 360: software/fusion_360.md
+  - Houdini: software/houdini.md
   - Marvelous Designer: software/marvelous_designer.md
   - Other: software/other.md
   - Substance 3D Designer: software/substance_3d_designer.md
