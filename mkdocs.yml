@@ -57,6 +57,7 @@ nav:
 - Industry:
   - Jobs: industry/jobs.md
 - Software:
+  - Houdini: software/houdini.md
   - Blender: software/blender.md
   - Fusion 360: software/fusion_360.md
   - Marvelous Designer: software/marvelous_designer.md

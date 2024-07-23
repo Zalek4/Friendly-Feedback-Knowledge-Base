@@ -3,6 +3,11 @@
 ## Breakdowns
 ___
 
+> ### [Protégé Foliage Tutorial](https://www.artstation.com/artwork/Z4v5N)
+An awesome breakdown of how to approach foliage by Peyton Varney. Also has a PDF version available for download.
+<!-- -->
+
+
 > ### [UV Masks Tutorial](https://www.artstation.com/marketplace/p/p3Mn/uv-masks-tutorial-barricade-bus-asset?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace)
 An excellent tutorial by Hamish Ames walking through the UV masks workflow for environment props.
 <!-- -->

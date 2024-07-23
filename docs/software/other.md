@@ -11,6 +11,11 @@ A list of alternatives to popular Adobe programs. Each program is labeled with i
 ## Utilities
 ___
 
+> ### [Effect Texture Maker](http://mebiusbox.github.io/contents/EffectTextureMaker/)
+A free website you can use to procedurally generate flipbook textures.
+<!-- -->
+
+
 > ### [ColorSpace](https://mycolor.space/)
 ColorSpace is a free website dedicated to generating color palettes, gradients and more based on an input color.
 <!-- -->
