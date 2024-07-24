@@ -3,6 +3,11 @@
 ## Tools
 ___
 
+> ### [Cablerator](https://blendermarket.com/products/cbl)
+Cablerator is a Blender addon for creating hanging cables between geometry faces, by drawing, from edges or objects. Easily add curve profiles, segments and end connectors, split multi-profile curves and more!
+<!-- -->
+
+
 > ### [Blendit](https://www.youtube.com/watch?v=SjtItfeyHII)
 Distance field material blending for Blender.
 <!-- -->
