@@ -37,6 +37,11 @@ A guide by Ben Bolten on how to approach prop lighting inside of Marmoset Toolba
 ## Workflows
 ___
 
+> ### [Modeling Hargonic Shapes](https://www.artstation.com/artwork/rRbAVE)
+A quick tutorial on how to approach organic/hard surface shapes using a ZBrush/Maya combo.
+<!-- -->
+
+
 > ### [Quick Tip: Making Normals Pop with Curvature](https://twitter.com/damjanmx/status/1309539929572225024?s=19)
 A quick breakdown of what injecting the curvature map into a normal map can do to improve contrast and overall readability of a normal map.
 <!-- -->
