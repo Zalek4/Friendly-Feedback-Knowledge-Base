@@ -3,7 +3,7 @@
 ## Breakdowns
 ___
 
-> ### [Protégé Foliage Tutorial](https://www.artstation.com/artwork/Z4v5N)
+> ### [Protege Foliage Tutorial](https://www.artstation.com/artwork/Z4v5N)
 An awesome breakdown of how to approach foliage by Peyton Varney. Also has a PDF version available for download.
 <!-- -->
 
