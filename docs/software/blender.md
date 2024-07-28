@@ -46,6 +46,11 @@ Blender Depot acts as a hub where artists can easily find and batch install Blen
 ## Workflows
 ___
 
+> ### [Clean 3D Scans With Instant Meshes and Blender](https://www.youtube.com/watch?v=dKo0rWXVAlc)
+A cool workflow showing how you can leverage Instant Meshes with Blender to clean up organic 3D scan data.
+<!-- -->
+
+
 > ### [Sewing Pants and Shirts in Blender](https://www.youtube.com/watch?v=HPz5gk_AT6w)
 A great tutorial showing how to sew basic clothing together in Blender.
 <!-- -->

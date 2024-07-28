@@ -37,6 +37,11 @@ A free custom node by Andrey Frolov that adds some crazy curve tools to Substanc
 ## Workflows
 ___
 
+> ### [Wire Fence Example Graph](https://twitter.com/DanFessler/status/1296558835155402752)
+Dan Fessler shows how he approached a wire fence with Substance Designer.
+<!-- -->
+
+
 > ### [Creating Realistic Material Cracks in Substance Designer](https://www.youtube.com/watch?v=6q64khJqQxo)
 Learn how to create realistic material cracks in Adobe Substance Designer with senior material artist Javier Perez.
 <!-- -->
