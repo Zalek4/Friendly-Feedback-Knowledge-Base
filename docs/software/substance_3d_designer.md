@@ -24,6 +24,11 @@ Official examples of filters, inheritance, and pixel processors.
 ## Tools
 ___
 
+> ### [IE Curve Toolbox](https://www.artstation.com/artwork/lV3BKG)
+Set of nodes to support non-destructive workflow with curves in Substance Designer (compatible only with SD 10.1.2 or higher).
+<!-- -->
+
+
 > ### [Substance Player](https://helpx.adobe.com/substance-3d-player/home.html)
 Substance Player allows you to view Substance 3D files outside of Substance Designer, and tweak any exposed parameters. Supports animation.
 <!-- -->
