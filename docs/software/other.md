@@ -15,6 +15,10 @@ A standalone software for 3D keyframe animation of humanoids or other characters
 <!-- -->
 
 
+> ### [FreeMoCap](https://freemocap.org/)
+The Free Motion Capture Project (FreeMoCap) aims to provide research-grade markerless motion capture software to everyone for free.
+<!-- -->
+
 
 ## Utilities
 ___
