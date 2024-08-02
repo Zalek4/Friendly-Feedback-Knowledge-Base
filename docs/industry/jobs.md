@@ -16,6 +16,11 @@ Masterdoc of industry professionals who are open to being contacted for advice &
 ## Job Hunting
 ___
 
+> ### [Guide to Game Art Applications](https://www.artstation.com/kierangoodson/blog/0pn0/guide-to-game-art-applications-art-tests-interviews-and-other-advice)
+Art tests, interviews and other advice related to applying to game art jobs.
+<!-- -->
+
+
 > ### [Application Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1isSrjOJQhDUUHiopO4WHxC-dsiot8Cft12CYOHpvE_o/edit?usp=sharing)
 A job applications spreadsheet made by Ellie Kirkner. Make a copy of this and use it to track the status of any jobs you've applied to.
 <!-- -->

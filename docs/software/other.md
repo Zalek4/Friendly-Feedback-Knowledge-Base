@@ -7,6 +7,14 @@ ___
 A list of alternatives to popular Adobe programs. Each program is labeled with it's cost and operating system.
 <!-- -->
 
+## Animation
+___
+
+> ### [Cascadeur](https://cascadeur.com/)
+A standalone software for 3D keyframe animation of humanoids or other characters.
+<!-- -->
+
+
 
 ## Utilities
 ___

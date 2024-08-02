@@ -12,3 +12,11 @@ A free cheat sheet for facial portrait lighting.
 A curated list of lighting related videos put together by the team at 80.lv
 <!-- -->
 
+
+## Workflows
+___
+
+> ### [How Roger Deakins Uses the Cove Light](https://www.premiumbeat.com/blog/recreating-roger-deakins-cove-light/)
+This article discusses the innovative "cove lighting" style of award-winning cinematographer Roger Deakins and how he uses it.
+<!-- -->
+
