@@ -1,5 +1,13 @@
 # Blender
 
+## Resources
+___
+
+> ### [All Constraint Types Explained](https://www.youtube.com/watch?v=81SiXoAWXuU)
+A breakdown of every type of constraint in Blender. Useful for both animation and modeling.
+<!-- -->
+
+
 ## Tools
 ___
 

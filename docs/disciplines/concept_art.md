@@ -1,5 +1,13 @@
 # Concept Art
 
+## Resources
+___
+
+> ### [Designing with Color and Light](https://www.youtube.com/watch?v=fvJQ0aHp-eQ)
+Some thoughts on an over-used formula in concept art that weakens opportunities for hopeful artists.
+<!-- -->
+
+
 ## Workflows
 ___
 
