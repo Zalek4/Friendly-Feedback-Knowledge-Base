@@ -3,6 +3,11 @@
 ## Advice
 ___
 
+> ### [Rise Up Animation](https://www.riseupanimation.org/)
+RUA is a movement to provide support to all People of Color with the goal of helping diverse talent Rise Up in the Animation Industry.
+<!-- -->
+
+
 > ### [On Applying for 3D Artist Jobs](https://medium.com/@chriswade__/on-applying-for-3d-artist-jobs-15eab00f6912)
 What matters in a portfolio, portfolio pitfalls, and
 standout portfolios. Chris Wade offers advice from reviewing more than 500 applications for one artist role.

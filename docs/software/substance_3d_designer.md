@@ -42,6 +42,11 @@ A free custom node by Andrey Frolov that adds some crazy curve tools to Substanc
 ## Workflows
 ___
 
+> ### [Creating Fabric Materials in Substance Designer](https://www.exp-points.com/exp-alex-beddows-substance-designer-fabric)
+In this tutorial Alex, will demonstrate how to create your base shape in Blender and then go through his graph and explain the steps he took to achieve the final result.
+<!-- -->
+
+
 > ### [Wire Fence Example Graph](https://twitter.com/DanFessler/status/1296558835155402752)
 Dan Fessler shows how he approached a wire fence with Substance Designer.
 <!-- -->

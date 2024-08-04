@@ -3,6 +3,11 @@
 ## Anatomy
 ___
 
+> ### [FACS - Cheat Sheet](https://melindaozel.com/facs-cheat-sheet/)
+A visual facial expression reference guide for the Facial Action Coding System (FACS), featuring action units (AUs) and their corresponding musculature.
+<!-- -->
+
+
 > ### [Anatomy For Sculptors](https://anatomy4sculptors.com/)
 Anatomy For Sculptors creates books and other content on anatomy for artists, with color-coded 3D and live models from various angles and more.
 <!-- -->

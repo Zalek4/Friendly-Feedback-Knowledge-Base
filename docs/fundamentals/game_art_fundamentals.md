@@ -74,3 +74,11 @@ ___
 Written by Simon Schreibt. A guide to rendering in game engines, written for artists. Most of this technical knowledge won't apply to your work on a daily basis, but all game art content is governed by these rules - and you should be aware of them.
 <!-- -->
 
+
+## Texel Density
+___
+
+> ### [Texel Density: All You Need to Know](https://leonano.gumroad.com/l/texeldensity)
+Everything you need to know about Texel Density. Costs ~8$, but totally worth it.
+<!-- -->
+
