@@ -7,6 +7,14 @@ ___
 A 3-part series written by Dean Scott on creating a small environment with Houdini. Talks about both organic and hard surface assets.
 <!-- -->
 
+## Courses
+___
+
+> ### [Post Apocalyptic Ruins for UE4](https://www.sidefx.com/tutorials/post-apocalyptic-ruins-for-ue4/?fbclid=IwAR27ebzgxGUnss2QwEZjLh9hFKLIHyrRklTEzQ5VEMX62tOCxLaYAwexFfo)
+This course will show you how to use geometry for blocking out a level, building an asset that creates terrain, and then adds details with a series of nested assets that define the different parts of the level.
+<!-- -->
+
+
 
 ## Resources
 ___
