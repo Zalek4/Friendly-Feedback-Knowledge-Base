@@ -36,3 +36,11 @@ A neat walkthrough going over the stippled shadow style of comic books with Blen
 A gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 <!-- -->
 
+
+## Workflows
+___
+
+> ### [Experiment: 2 Maps in One Channel](https://www.youtube.com/watch?v=2ZGhTZB_9ik)
+UnrealSimon goes over how you could theoretically approach packing multiple greyscale maps into one channel of an RGB image.
+<!-- -->
+
