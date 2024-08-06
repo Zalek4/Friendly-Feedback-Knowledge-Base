@@ -11,6 +11,11 @@ A breakdown of every type of constraint in Blender. Useful for both animation an
 ## Tools
 ___
 
+> ### [Machin3Tools](https://blendermarket.com/products/machin3tools)
+MACHIN3tools is a continuously evolving collection of blender tools and pie menus in a single customizable package. A must have addon for anyone doing serious work in Blender.
+<!-- -->
+
+
 > ### [Cablerator](https://blendermarket.com/products/cbl)
 Cablerator is a Blender addon for creating hanging cables between geometry faces, by drawing, from edges or objects. Easily add curve profiles, segments and end connectors, split multi-profile curves and more!
 <!-- -->
