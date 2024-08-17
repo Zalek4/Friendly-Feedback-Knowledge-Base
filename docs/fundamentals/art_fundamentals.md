@@ -12,6 +12,14 @@ A visual facial expression reference guide for the Facial Action Coding System (
 Anatomy For Sculptors creates books and other content on anatomy for artists, with color-coded 3D and live models from various angles and more.
 <!-- -->
 
+## Architecture
+___
+
+> ### [The Pepin Press Visual Encyclopedia - Architecture](https://www.amazon.com/PEPIN-PRESS-VISUAL-ENCYCLOPEDIA-ARCHITECTURE/dp/B00IMKE2XG)
+This book is a great example showcasing various architecture styles throughout the centuries.
+<!-- -->
+
+
 
 ## Design
 ___

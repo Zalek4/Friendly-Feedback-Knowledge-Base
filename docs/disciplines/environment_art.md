@@ -68,6 +68,11 @@ A Google Photos library maintained by David McSween. Tons of excellent, high res
 ## Workflows
 ___
 
+> ### [Advanced Vertex Painting Techniques](https://www.youtube.com/watch?v=OPHnxGb6KHA)
+Tharlevfx shows how to use Vertex Painting to create Material Blending, and how to add detail with Noise and Heightmaps.
+<!-- -->
+
+
 > ### [Technical Tips for Environment Artists: Part 1](https://80.lv/articles/technical-tips-for-environment-artists-part-1-001agt-004adk/)
 Harry Gray goes through the optimization methods and workflows he used in the creation of a junkyard environment. This covers blockouts, rubble piles, and various optimization tips.
 <!-- -->

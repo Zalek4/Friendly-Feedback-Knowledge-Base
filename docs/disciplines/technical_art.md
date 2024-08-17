@@ -19,6 +19,16 @@ This course will show you how to use geometry for blocking out a level, building
 ## Resources
 ___
 
+> ### [Bend Cloward](https://www.youtube.com/@BenCloward)
+Shader creation and other game dev tips and tricks in Unity and Unreal.
+<!-- -->
+
+
+> ### [tharlevfx](https://www.youtube.com/@tharlevfx/videos)
+This channel focuses on tech art, mostly shaders for Unreal Engine.
+<!-- -->
+
+
 > ### [CGWiki](https://tokeru.com/cgwiki/)
 A website hosting a wealth of  knowledge related to Technical Art. Mostly Houdini notes, but also has content about Nuke, Python, and Ffmpeg. Excellent Houdini Vex and Maya Pymel walkthroughs.
 <!-- -->
