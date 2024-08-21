@@ -46,7 +46,6 @@ nav:
   - Art Fundamentals: fundamentals/art_fundamentals.md
   - Game Art Fundamentals: fundamentals/game_art_fundamentals.md
 - Disciplines:
-  - Music: disciplines/music.md
   - Animation: disciplines/animation.md
   - Character Art: disciplines/character_art.md
   - Concept Art: disciplines/concept_art.md
@@ -55,6 +54,7 @@ nav:
   - Environment Art: disciplines/environment_art.md
   - Lighting: disciplines/lighting.md
   - Material Art: disciplines/material_art.md
+  - Music: disciplines/music.md
   - Prop Art: disciplines/prop_art.md
   - Technical Art: disciplines/technical_art.md
 - Industry:
