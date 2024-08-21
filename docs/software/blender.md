@@ -11,6 +11,11 @@ A breakdown of every type of constraint in Blender. Useful for both animation an
 ## Tools
 ___
 
+> ### [TexTools](https://blender-addons.org/textools-addon/)
+TexTools is a must have Blender addon if you're looking for a free way to unwrap stuff. Also contains a lot of map baking related tools.
+<!-- -->
+
+
 > ### [Machin3Tools](https://blendermarket.com/products/machin3tools)
 MACHIN3tools is a continuously evolving collection of blender tools and pie menus in a single customizable package. A must have addon for anyone doing serious work in Blender.
 <!-- -->
