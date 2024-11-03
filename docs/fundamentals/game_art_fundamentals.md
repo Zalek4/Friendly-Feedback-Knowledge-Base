@@ -78,6 +78,11 @@ Written by Simon Schreibt. A guide to rendering in game engines, written for art
 ## Texel Density
 ___
 
+> ### [Texel Density Masterclass](https://www.youtube.com/watch?v=sR1sAWWT2x8)
+An excellent overall breakdown of texel density and why it's important.
+<!-- -->
+
+
 > ### [Texel Density: All You Need to Know](https://leonano.gumroad.com/l/texeldensity)
 Everything you need to know about Texel Density. Costs ~8$, but totally worth it.
 <!-- -->

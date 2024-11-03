@@ -1,6 +1,6 @@
 <div markdown="1" class="ff_badge">
 <div markdown="1" class="ff_badge_title">Resource Count</div>
-<div markdown="1" class="ff_badge_value">143</div>
+<div markdown="1" class="ff_badge_value">144</div>
 </div>
 
 ___
