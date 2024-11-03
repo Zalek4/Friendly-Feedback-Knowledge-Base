@@ -68,6 +68,16 @@ A Google Photos library maintained by David McSween. Tons of excellent, high res
 ## Workflows
 ___
 
+> ### [Rubble Modular Set Production](https://80.lv/articles/rubble-modular-set-production/)
+Ilya Nedyal discusses production of tiling textures, rubble piles, and standalone assets.
+<!-- -->
+
+
+> ### [UE4 Parallax Occlusion Mapping Tutorial](https://www.artstation.com/artwork/XBnL3l)
+Generate parallax occlusion maps for interiors of buildings, utilizing Unreal Engine.
+<!-- -->
+
+
 > ### [Advanced Vertex Painting Techniques](https://www.youtube.com/watch?v=OPHnxGb6KHA)
 Tharlevfx shows how to use Vertex Painting to create Material Blending, and how to add detail with Noise and Heightmaps.
 <!-- -->

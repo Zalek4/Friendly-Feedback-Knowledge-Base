@@ -24,6 +24,11 @@ GMTK looks at the way randomness is used in games - and why some forms are more 
 ## Resources
 ___
 
+> ### [One-Page Game Design Document Template](https://www.youtube.com/watch?v=q96lz725gIw)
+Tim Ruswick provides a google doc and a video explanation for how to use this simple one-page design document.
+<!-- -->
+
+
 > ### [Level Design - In Pursuit of Better Levels](https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/edit?usp=sharing)
 A bible of different stages of level design, and tips for each one. Ranges from level creation and metrics, to breadcrumbs and nope zones.
 <!-- -->
