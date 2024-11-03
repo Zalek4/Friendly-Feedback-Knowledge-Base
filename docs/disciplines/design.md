@@ -24,6 +24,11 @@ GMTK looks at the way randomness is used in games - and why some forms are more 
 ## Resources
 ___
 
+> ### [Develop.Games - Advice on Game Development](https://develop.games/)
+Jason Thor Hall (PirateSoftware) outlines advice on game development. This site covers building a team, financing, marketing, and launching your game.
+<!-- -->
+
+
 > ### [One-Page Game Design Document Template](https://www.youtube.com/watch?v=q96lz725gIw)
 Tim Ruswick provides a google doc and a video explanation for how to use this simple one-page design document.
 <!-- -->

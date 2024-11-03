@@ -60,6 +60,7 @@ nav:
 - Industry:
   - Jobs: industry/jobs.md
 - Software:
+  - Photoshop: software/photoshop.md
   - Blender: software/blender.md
   - Fusion 360: software/fusion_360.md
   - Houdini: software/houdini.md

@@ -78,6 +78,16 @@ Written by Simon Schreibt. A guide to rendering in game engines, written for art
 ## Texel Density
 ___
 
+> ### [Weapon Texel Density Example p2](https://cdn.discordapp.com/attachments/607019459760095232/1295973182012002334/1728711464654.jpg?ex=6728fc54&is=6727aad4&hm=d834b38bff1187da868588c523d046ab8a53295e43dcfbd84204d665afda453d&)
+FPS weapon texel density showcased by Ohle Matheibe.
+<!-- -->
+
+
+> ### [Weapon Texel Density Example](https://cdn.discordapp.com/attachments/607019459760095232/1295973181735305257/1728711464668.jpg?ex=6728fc54&is=6727aad4&hm=d14c6b243d77c9dd979b9c238de72d495b3237955100a9280dc11e13f2320226&)
+FPS weapon texel density showcased by Ohle Matheibe.
+<!-- -->
+
+
 > ### [Texel Density Masterclass](https://www.youtube.com/watch?v=sR1sAWWT2x8)
 An excellent overall breakdown of texel density and why it's important.
 <!-- -->

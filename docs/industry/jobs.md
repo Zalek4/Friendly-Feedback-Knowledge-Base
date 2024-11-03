@@ -3,6 +3,11 @@
 ## Advice
 ___
 
+> ### [Game Development Career Starter Pack](https://cdn.discordapp.com/attachments/607019459760095232/1295973800894136330/1728282512054.jpg?ex=6728fce8&is=6727ab68&hm=05e6b074b7a9e5de3c66d252608e6bf3349e2c5ba2d259390b6287e232dc2431&)
+A broad overview outlining major steps to enter the games industry.
+<!-- -->
+
+
 > ### [Rise Up Animation](https://www.riseupanimation.org/)
 RUA is a movement to provide support to all People of Color with the goal of helping diverse talent Rise Up in the Animation Industry.
 <!-- -->
