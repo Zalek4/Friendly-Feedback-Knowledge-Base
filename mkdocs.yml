@@ -60,12 +60,12 @@ nav:
 - Industry:
   - Jobs: industry/jobs.md
 - Software:
-  - Photoshop: software/photoshop.md
   - Blender: software/blender.md
   - Fusion 360: software/fusion_360.md
   - Houdini: software/houdini.md
   - Marvelous Designer: software/marvelous_designer.md
   - Other: software/other.md
+  - Photoshop: software/photoshop.md
   - Substance 3D Designer: software/substance_3d_designer.md
   - Substance 3D Painter: software/substance_3d_painter.md
   - Unreal Engine: software/unreal_engine.md
