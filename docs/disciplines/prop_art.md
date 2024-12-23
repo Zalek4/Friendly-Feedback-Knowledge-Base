@@ -3,6 +3,16 @@
 ## Breakdowns
 ___
 
+> ### [Weapon Texel Density Breakdown Pt2](https://cdn.discordapp.com/attachments/607019459760095232/1295973182012002334/1728711464654.jpg?ex=676ae754&is=676995d4&hm=fa75624a660c80d2d65a9b3b595d43a39f3bdb75a799284eb64aaf5676dca49b&)
+A second one-sheet for weapon texel density guidelines.
+<!-- -->
+
+
+> ### [Weapon Texel Density Breakdown](https://cdn.discordapp.com/attachments/607019459760095232/1295973181735305257/1728711464668.jpg?ex=676ae754&is=676995d4&hm=d7c3f0834b346917b13870f2cdb98975c659524536363b97c7bba17797962d54&)
+An awesome one-sheet of how dense your texels should be on guns used in FPS games.
+<!-- -->
+
+
 > ### [Protege Foliage Tutorial](https://www.artstation.com/artwork/Z4v5N)
 An awesome breakdown of how to approach foliage by Peyton Varney. Also has a PDF version available for download.
 <!-- -->
@@ -32,6 +42,14 @@ ___
 > ### [Lighting For Asset Presentation](https://www.artstation.com/benbolton/blog/YPL3/lighting-for-asset-presentation)
 A guide by Ben Bolten on how to approach prop lighting inside of Marmoset Toolbag 3/4.
 <!-- -->
+
+## Resources
+___
+
+> ### [Robot Army YouTube Channel](https://youtube.com/@robotarmy3d?si=xST3nXz9h0qPKZWV)
+An excellent YouTube channel run by a Senior Environment Artist working in AAA games. This channel mostly focuses on prop art, and talks about advanced industry standard techniques for making game art.
+<!-- -->
+
 
 
 ## Workflows

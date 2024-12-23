@@ -45,6 +45,16 @@ A comprehensive human anatomy atlas that can be used as learning material and as
 ## Workflows
 ___
 
+> ### [Skin Texturing in Substance Painter](https://www.youtube.com/watch?v=-YUQ5futwSk&start=3070)
+A cool guide to texturing skin in Substance Painter. Lesson files are also available so you can follow along.
+<!-- -->
+
+
+> ### [Clothing And Accessories](https://www.artstation.com/artwork/XgABvw)
+A great compilation of tips and tricks by Kirill Senzu for sculpting clothing for your characters.
+<!-- -->
+
+
 > ### [The Fastest Way to Sculpt Characters in 3D](https://www.youtube.com/watch?v=Oab3268dGC8)
 A video by FlippedNormals talking about some neat Character Art speed boosts. Mainly talks about the Daz-to-ZBrush workflow.
 <!-- -->

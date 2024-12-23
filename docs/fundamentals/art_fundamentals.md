@@ -41,3 +41,24 @@ A video by Swatches covering value in art, and why it's so important.
 A great read about tangents, where they sneak into our art, and how to avoid them.
 <!-- -->
 
+## Resources
+___
+
+> ### [Public Work by Cosmos](https://public.work/)
+Public Work is a visual search engine for public domain content. Explore 100,000+ copyright-free images from The MET, New York Public Library, and other sources.
+<!-- -->
+
+
+> ### [Rawpixel](https://www.rawpixel.com/public-domain)
+Free public domain CC0 art, pictures, illustrations, photos, and backgrounds. Download free for commercial use.
+<!-- -->
+
+
+
+## Typography
+___
+
+> ### [Fonts in Use](https://fontsinuse.com/)
+An independent archive of typography.
+<!-- -->
+
