@@ -55,6 +55,11 @@ An excellent YouTube channel run by a Senior Environment Artist working in AAA g
 ## Workflows
 ___
 
+> ### [Painting Dirty Glass](https://www.youtube.com/watch?v=isuqEx30VBg)
+An excellent tutorial showing how to approach glass in Substance Painter
+<!-- -->
+
+
 > ### [Modeling Hargonic Shapes](https://www.artstation.com/artwork/rRbAVE)
 A quick tutorial on how to approach organic/hard surface shapes using a ZBrush/Maya combo.
 <!-- -->

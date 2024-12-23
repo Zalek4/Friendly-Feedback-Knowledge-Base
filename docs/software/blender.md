@@ -64,6 +64,11 @@ Blender Depot acts as a hub where artists can easily find and batch install Blen
 ## Workflows
 ___
 
+> ### [Making Corners](https://www.youtube.com/watch?v=5P6BNzE_tUw)
+A breakdown of how to make corners in Blender
+<!-- -->
+
+
 > ### [Clean 3D Scans With Instant Meshes and Blender](https://www.youtube.com/watch?v=dKo0rWXVAlc)
 A cool workflow showing how you can leverage Instant Meshes with Blender to clean up organic 3D scan data.
 <!-- -->
